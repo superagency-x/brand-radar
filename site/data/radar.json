@@ -1,0 +1,2393 @@
+{
+  "brands": [
+    "ninja",
+    "cosori",
+    "philips",
+    "tefal"
+  ],
+  "brands_metadata": {
+    "ninja": {
+      "id": "ninja",
+      "name": "SharkNinja",
+      "corporate_name": "SharkNinja Europe GmbH",
+      "hq_dach": "Frankfurt am Main, Germany",
+      "domains": [
+        "ninjakitchen.de",
+        "sharkninja.com"
+      ],
+      "meta": {
+        "page_name": "Ninja Kitchen DE",
+        "search_terms": [
+          "Ninja Kitchen",
+          "Ninja Airfryer",
+          "DoubleStack",
+          "Ninja Foodi"
+        ],
+        "advertiser_names": [
+          "Ninja Kitchen Germany",
+          "SharkNinja Europe"
+        ]
+      },
+      "google_sem": {
+        "brand_terms": [
+          "ninja airfryer",
+          "ninja heißluftfritteuse",
+          "ninja doublestack",
+          "ninja af400eu",
+          "ninja kitchen de"
+        ],
+        "generic_intercepts": [
+          "heißluftfritteuse 2 kammern",
+          "doppelkammer friteuse test",
+          "heissluftfritteuse xxl test"
+        ]
+      },
+      "affiliates": {
+        "networks": [
+          "Awin",
+          "Amazon Associates"
+        ],
+        "mydealz_slug": "ninja-kitchen",
+        "common_voucher_codes": [
+          "NINJA10",
+          "AIRFRYER15",
+          "BLACKFRIDAY"
+        ]
+      },
+      "flagship_skus": [
+        {
+          "name": "Ninja DoubleStack XL 9.5L (SL400EU)",
+          "usp": "Vertikale Doppelkammer spart 30% Platz auf der Arbeitsplatte"
+        },
+        {
+          "name": "Ninja Foodi Dual Zone 9.5L (AF400EU)",
+          "usp": "Zwei unabhängige Garzonen mit Sync-Funktion"
+        },
+        {
+          "name": "Ninja Foodi FlexDrawer 10.4L (AF500EU)",
+          "usp": "Verwandelbare MegaZone für ganze Braten & Familien"
+        },
+        {
+          "name": "Ninja CRISPi 4-in-1 (FN101EU)",
+          "usp": "Kompaktes tragbares Glas-Garsystem"
+        }
+      ]
+    },
+    "cosori": {
+      "id": "cosori",
+      "name": "Cosori",
+      "corporate_name": "VeSync Europe B.V. / Cosori Germany",
+      "hq_dach": "Hamburg / European distribution",
+      "domains": [
+        "cosori.de",
+        "vesync.com"
+      ],
+      "meta": {
+        "page_name": "Cosori Deutschland",
+        "search_terms": [
+          "Cosori",
+          "Cosori Airfryer",
+          "Cosori Dual Blaze",
+          "Turbo Tower"
+        ],
+        "advertiser_names": [
+          "Cosori Germany",
+          "VeSync"
+        ]
+      },
+      "google_sem": {
+        "brand_terms": [
+          "cosori airfryer",
+          "cosori heissluftfritteuse",
+          "cosori dual blaze",
+          "cosori turbo tower",
+          "cosori rezepte"
+        ],
+        "generic_intercepts": [
+          "beste heißluftfritteuse",
+          "heißluftfritteuse app steuerung",
+          "smart heißluftfritteuse"
+        ]
+      },
+      "affiliates": {
+        "networks": [
+          "Amazon Associates",
+          "CJ Affiliate"
+        ],
+        "mydealz_slug": "cosori",
+        "common_voucher_codes": [
+          "COSORI10",
+          "VESYNC20"
+        ]
+      },
+      "flagship_skus": [
+        {
+          "name": "Cosori Turbo Tower Pro Smart 10.8L (CAF-DC123S)",
+          "usp": "Vertikales 2-Ebenen-System mit 4 Heizelementen & VeSync App"
+        },
+        {
+          "name": "Cosori Dual Blaze 6.4L (CAF-P583S)",
+          "usp": "Ober- und Unterhitze 360 ThermoIQ ohne Wenden"
+        },
+        {
+          "name": "Cosori TurboBlaze 6.0L",
+          "usp": "DC-Gleichstrommotor für 46% schnellere Zubereitung"
+        },
+        {
+          "name": "Cosori Lite 3.8L / Iconic Single",
+          "usp": "Modernes Design & kompakte Form für Single- und Paarhaushalte"
+        }
+      ]
+    },
+    "philips": {
+      "id": "philips",
+      "name": "Philips",
+      "corporate_name": "Versuni Germany GmbH",
+      "hq_dach": "Hamburg, Germany",
+      "domains": [
+        "philips.de",
+        "versuni.com"
+      ],
+      "meta": {
+        "page_name": "Philips Home Living DE",
+        "search_terms": [
+          "Philips Airfryer",
+          "Philips Home Living",
+          "Rapid CombiAir",
+          "HomeID"
+        ],
+        "advertiser_names": [
+          "Philips DACH",
+          "Versuni Germany"
+        ]
+      },
+      "google_sem": {
+        "brand_terms": [
+          "philips airfryer",
+          "philips heißluftfritteuse",
+          "philips airfryer xxl",
+          "philips combi 7000",
+          "homeid app philips"
+        ],
+        "generic_intercepts": [
+          "original airfryer",
+          "heißluftfritteuse stiftung warentest",
+          "gesund frittieren ohne fett"
+        ]
+      },
+      "affiliates": {
+        "networks": [
+          "Awin",
+          "Tradedoubler",
+          "Amazon Associates"
+        ],
+        "mydealz_slug": "philips-airfryer",
+        "common_voucher_codes": [
+          "PHILIPS15",
+          "VERSUNI10",
+          "APP10"
+        ]
+      },
+      "flagship_skus": [
+        {
+          "name": "Philips Airfryer Combi 7000 XXL (HD9880/90)",
+          "usp": "Rapid CombiAir mit integriertem Speisenthermometer & HomeID App"
+        },
+        {
+          "name": "Philips Airfryer Dual Basket 3000 (NA352/00)",
+          "usp": "Zwei unterschiedlich große Körbe (6L + 3L) für Hauptgericht & Beilage"
+        },
+        {
+          "name": "Philips 5000 Series Steam Airfryer (NA555/00)",
+          "usp": "Dampf- und Heißluft-Kombination für saftige Frische"
+        },
+        {
+          "name": "Philips Essential XL (HD9270/96)",
+          "usp": "Der bewährte Klassiker mit Rapid Air Seestern-Boden"
+        }
+      ]
+    },
+    "tefal": {
+      "id": "tefal",
+      "name": "Tefal",
+      "corporate_name": "Groupe SEB Deutschland GmbH",
+      "hq_dach": "Frankfurt am Main, Germany",
+      "domains": [
+        "tefal.de",
+        "groupeseb.com"
+      ],
+      "meta": {
+        "page_name": "Tefal Deutschland",
+        "search_terms": [
+          "Tefal Easy Fry",
+          "Tefal Heißluftfritteuse",
+          "Tefal Dual",
+          "Actifry"
+        ],
+        "advertiser_names": [
+          "Tefal DACH",
+          "Groupe SEB Deutschland"
+        ]
+      },
+      "google_sem": {
+        "brand_terms": [
+          "tefal heißluftfritteuse",
+          "tefal easy fry",
+          "tefal dual easy fry",
+          "tefal actifry",
+          "tefal ey905b"
+        ],
+        "generic_intercepts": [
+          "heißluftfritteuse mit grillfunktion",
+          "heißluftfritteuse synchron",
+          "fritteuse ohne fett test"
+        ]
+      },
+      "affiliates": {
+        "networks": [
+          "Awin",
+          "Amazon Associates"
+        ],
+        "mydealz_slug": "tefal",
+        "common_voucher_codes": [
+          "TEFAL10",
+          "SEB15",
+          "TREUEAKTION"
+        ]
+      },
+      "flagship_skus": [
+        {
+          "name": "Tefal Dual Easy Fry & Grill 8.3L (EY905B)",
+          "usp": "Zweikammer mit Druckguss-Grillrost für echte Grillstreifen"
+        },
+        {
+          "name": "Tefal Easy Fry & Grill XXL 6.5L (EY8018)",
+          "usp": "Flexible 2-in-1-Zone mit herausnehmbarem Flexcook-Trenner"
+        },
+        {
+          "name": "Tefal Easy Fry Mega 7.5L (EY855D)",
+          "usp": "Extragroßes Einzelfach für Großportionen bis 2 kg"
+        },
+        {
+          "name": "Tefal Actifry Genius XL",
+          "usp": "Rührarm-Technologie für automatisches Wenden ohne Schütteln"
+        }
+      ]
+    }
+  },
+  "media_spend": {
+    "ninja": {
+      "currently_active": {
+        "brand": "ninja",
+        "timeframe": "currently_active",
+        "total_estimated_spend_eur": 37872.0,
+        "spend_band_low_eur": 32191.0,
+        "spend_band_high_eur": 45447.0,
+        "channel_breakdown_pct": {
+          "Meta Ads": 41.7,
+          "Google Search & Shopping": 24.8,
+          "Retail Media (Amazon/MMS)": 33.1,
+          "Affiliate & Deal Payouts": 0.4
+        },
+        "monthly_trend": []
+      },
+      "trailing_12m": {
+        "brand": "ninja",
+        "timeframe": "trailing_12m",
+        "total_estimated_spend_eur": 292214.0,
+        "spend_band_low_eur": 248382.0,
+        "spend_band_high_eur": 365267.0,
+        "channel_breakdown_pct": {
+          "Meta Ads": 16.3,
+          "Google Search & Shopping": 34.7,
+          "Retail Media (Amazon/MMS)": 48.9,
+          "Affiliate & Deal Payouts": 0.1
+        },
+        "monthly_trend": [
+          {
+            "month": "2025-11",
+            "estimated_spend_eur": 46585.0,
+            "campaign_focus": "Black Week & Cyber Monday Offensive"
+          },
+          {
+            "month": "2025-12",
+            "estimated_spend_eur": 40232.0,
+            "campaign_focus": "Weihnachts-Geschenke Endspurt"
+          },
+          {
+            "month": "2026-01",
+            "estimated_spend_eur": 16940.0,
+            "campaign_focus": "Gesunder Jahresstart / Neujahrsvorsätze"
+          },
+          {
+            "month": "2026-02",
+            "estimated_spend_eur": 12705.0,
+            "campaign_focus": "Alltägliches Performance Marketing"
+          },
+          {
+            "month": "2026-03",
+            "estimated_spend_eur": 19057.0,
+            "campaign_focus": "Oster-Angebote & Frühlings-Backen"
+          },
+          {
+            "month": "2026-04",
+            "estimated_spend_eur": 16940.0,
+            "campaign_focus": "Oster-Angebote & Frühlings-Backen"
+          },
+          {
+            "month": "2026-05",
+            "estimated_spend_eur": 14822.0,
+            "campaign_focus": "Alltägliches Performance Marketing"
+          },
+          {
+            "month": "2026-06",
+            "estimated_spend_eur": 16940.0,
+            "campaign_focus": "Alltägliches Performance Marketing"
+          },
+          {
+            "month": "2026-07",
+            "estimated_spend_eur": 29645.0,
+            "campaign_focus": "Amazon Prime Day Spotlight"
+          },
+          {
+            "month": "2026-08",
+            "estimated_spend_eur": 19057.0,
+            "campaign_focus": "Alltägliches Performance Marketing"
+          },
+          {
+            "month": "2026-09",
+            "estimated_spend_eur": 27527.0,
+            "campaign_focus": "IFA Berlin Neuheiten-Präsentation"
+          },
+          {
+            "month": "2026-10",
+            "estimated_spend_eur": 31762.0,
+            "campaign_focus": "Q4 Kampagnen-Warmup"
+          }
+        ]
+      }
+    },
+    "cosori": {
+      "currently_active": {
+        "brand": "cosori",
+        "timeframe": "currently_active",
+        "total_estimated_spend_eur": 23472.0,
+        "spend_band_low_eur": 19951.0,
+        "spend_band_high_eur": 28166.0,
+        "channel_breakdown_pct": {
+          "Meta Ads": 45.6,
+          "Google Search & Shopping": 24.4,
+          "Retail Media (Amazon/MMS)": 29.6,
+          "Affiliate & Deal Payouts": 0.4
+        },
+        "monthly_trend": []
+      },
+      "trailing_12m": {
+        "brand": "cosori",
+        "timeframe": "trailing_12m",
+        "total_estimated_spend_eur": 166188.0,
+        "spend_band_low_eur": 141260.0,
+        "spend_band_high_eur": 207735.0,
+        "channel_breakdown_pct": {
+          "Meta Ads": 15.0,
+          "Google Search & Shopping": 37.2,
+          "Retail Media (Amazon/MMS)": 47.6,
+          "Affiliate & Deal Payouts": 0.1
+        },
+        "monthly_trend": [
+          {
+            "month": "2025-11",
+            "estimated_spend_eur": 26494.0,
+            "campaign_focus": "Black Week & Cyber Monday Offensive"
+          },
+          {
+            "month": "2025-12",
+            "estimated_spend_eur": 22881.0,
+            "campaign_focus": "Weihnachts-Geschenke Endspurt"
+          },
+          {
+            "month": "2026-01",
+            "estimated_spend_eur": 9634.0,
+            "campaign_focus": "Gesunder Jahresstart / Neujahrsvorsätze"
+          },
+          {
+            "month": "2026-02",
+            "estimated_spend_eur": 7226.0,
+            "campaign_focus": "Alltägliches Performance Marketing"
+          },
+          {
+            "month": "2026-03",
+            "estimated_spend_eur": 10838.0,
+            "campaign_focus": "Oster-Angebote & Frühlings-Backen"
+          },
+          {
+            "month": "2026-04",
+            "estimated_spend_eur": 9634.0,
+            "campaign_focus": "Oster-Angebote & Frühlings-Backen"
+          },
+          {
+            "month": "2026-05",
+            "estimated_spend_eur": 8430.0,
+            "campaign_focus": "Alltägliches Performance Marketing"
+          },
+          {
+            "month": "2026-06",
+            "estimated_spend_eur": 9634.0,
+            "campaign_focus": "Alltägliches Performance Marketing"
+          },
+          {
+            "month": "2026-07",
+            "estimated_spend_eur": 16860.0,
+            "campaign_focus": "Amazon Prime Day Spotlight"
+          },
+          {
+            "month": "2026-08",
+            "estimated_spend_eur": 10838.0,
+            "campaign_focus": "Alltägliches Performance Marketing"
+          },
+          {
+            "month": "2026-09",
+            "estimated_spend_eur": 15655.0,
+            "campaign_focus": "IFA Berlin Neuheiten-Präsentation"
+          },
+          {
+            "month": "2026-10",
+            "estimated_spend_eur": 18064.0,
+            "campaign_focus": "Q4 Kampagnen-Warmup"
+          }
+        ]
+      }
+    },
+    "philips": {
+      "currently_active": {
+        "brand": "philips",
+        "timeframe": "currently_active",
+        "total_estimated_spend_eur": 31539.0,
+        "spend_band_low_eur": 26808.0,
+        "spend_band_high_eur": 37846.0,
+        "channel_breakdown_pct": {
+          "Meta Ads": 53.9,
+          "Google Search & Shopping": 13.2,
+          "Retail Media (Amazon/MMS)": 32.6,
+          "Affiliate & Deal Payouts": 0.3
+        },
+        "monthly_trend": []
+      },
+      "trailing_12m": {
+        "brand": "philips",
+        "timeframe": "trailing_12m",
+        "total_estimated_spend_eur": 215869.0,
+        "spend_band_low_eur": 183489.0,
+        "spend_band_high_eur": 269836.0,
+        "channel_breakdown_pct": {
+          "Meta Ads": 24.7,
+          "Google Search & Shopping": 20.9,
+          "Retail Media (Amazon/MMS)": 54.3,
+          "Affiliate & Deal Payouts": 0.1
+        },
+        "monthly_trend": [
+          {
+            "month": "2025-11",
+            "estimated_spend_eur": 34414.0,
+            "campaign_focus": "Black Week & Cyber Monday Offensive"
+          },
+          {
+            "month": "2025-12",
+            "estimated_spend_eur": 29721.0,
+            "campaign_focus": "Weihnachts-Geschenke Endspurt"
+          },
+          {
+            "month": "2026-01",
+            "estimated_spend_eur": 12514.0,
+            "campaign_focus": "Gesunder Jahresstart / Neujahrsvorsätze"
+          },
+          {
+            "month": "2026-02",
+            "estimated_spend_eur": 9386.0,
+            "campaign_focus": "Alltägliches Performance Marketing"
+          },
+          {
+            "month": "2026-03",
+            "estimated_spend_eur": 14078.0,
+            "campaign_focus": "Oster-Angebote & Frühlings-Backen"
+          },
+          {
+            "month": "2026-04",
+            "estimated_spend_eur": 12514.0,
+            "campaign_focus": "Oster-Angebote & Frühlings-Backen"
+          },
+          {
+            "month": "2026-05",
+            "estimated_spend_eur": 10950.0,
+            "campaign_focus": "Alltägliches Performance Marketing"
+          },
+          {
+            "month": "2026-06",
+            "estimated_spend_eur": 12514.0,
+            "campaign_focus": "Alltägliches Performance Marketing"
+          },
+          {
+            "month": "2026-07",
+            "estimated_spend_eur": 21900.0,
+            "campaign_focus": "Amazon Prime Day Spotlight"
+          },
+          {
+            "month": "2026-08",
+            "estimated_spend_eur": 14078.0,
+            "campaign_focus": "Alltägliches Performance Marketing"
+          },
+          {
+            "month": "2026-09",
+            "estimated_spend_eur": 20335.0,
+            "campaign_focus": "IFA Berlin Neuheiten-Präsentation"
+          },
+          {
+            "month": "2026-10",
+            "estimated_spend_eur": 23464.0,
+            "campaign_focus": "Q4 Kampagnen-Warmup"
+          }
+        ]
+      }
+    },
+    "tefal": {
+      "currently_active": {
+        "brand": "tefal",
+        "timeframe": "currently_active",
+        "total_estimated_spend_eur": 27692.0,
+        "spend_band_low_eur": 23538.0,
+        "spend_band_high_eur": 33230.0,
+        "channel_breakdown_pct": {
+          "Meta Ads": 49.5,
+          "Google Search & Shopping": 20.7,
+          "Retail Media (Amazon/MMS)": 29.4,
+          "Affiliate & Deal Payouts": 0.4
+        },
+        "monthly_trend": []
+      },
+      "trailing_12m": {
+        "brand": "tefal",
+        "timeframe": "trailing_12m",
+        "total_estimated_spend_eur": 193365.0,
+        "spend_band_low_eur": 164360.0,
+        "spend_band_high_eur": 241706.0,
+        "channel_breakdown_pct": {
+          "Meta Ads": 19.9,
+          "Google Search & Shopping": 32.0,
+          "Retail Media (Amazon/MMS)": 48.0,
+          "Affiliate & Deal Payouts": 0.1
+        },
+        "monthly_trend": [
+          {
+            "month": "2025-11",
+            "estimated_spend_eur": 30826.0,
+            "campaign_focus": "Black Week & Cyber Monday Offensive"
+          },
+          {
+            "month": "2025-12",
+            "estimated_spend_eur": 26623.0,
+            "campaign_focus": "Weihnachts-Geschenke Endspurt"
+          },
+          {
+            "month": "2026-01",
+            "estimated_spend_eur": 11210.0,
+            "campaign_focus": "Gesunder Jahresstart / Neujahrsvorsätze"
+          },
+          {
+            "month": "2026-02",
+            "estimated_spend_eur": 8407.0,
+            "campaign_focus": "Alltägliches Performance Marketing"
+          },
+          {
+            "month": "2026-03",
+            "estimated_spend_eur": 12611.0,
+            "campaign_focus": "Oster-Angebote & Frühlings-Backen"
+          },
+          {
+            "month": "2026-04",
+            "estimated_spend_eur": 11210.0,
+            "campaign_focus": "Oster-Angebote & Frühlings-Backen"
+          },
+          {
+            "month": "2026-05",
+            "estimated_spend_eur": 9808.0,
+            "campaign_focus": "Alltägliches Performance Marketing"
+          },
+          {
+            "month": "2026-06",
+            "estimated_spend_eur": 11210.0,
+            "campaign_focus": "Alltägliches Performance Marketing"
+          },
+          {
+            "month": "2026-07",
+            "estimated_spend_eur": 19617.0,
+            "campaign_focus": "Amazon Prime Day Spotlight"
+          },
+          {
+            "month": "2026-08",
+            "estimated_spend_eur": 12611.0,
+            "campaign_focus": "Alltägliches Performance Marketing"
+          },
+          {
+            "month": "2026-09",
+            "estimated_spend_eur": 18216.0,
+            "campaign_focus": "IFA Berlin Neuheiten-Präsentation"
+          },
+          {
+            "month": "2026-10",
+            "estimated_spend_eur": 21018.0,
+            "campaign_focus": "Q4 Kampagnen-Warmup"
+          }
+        ]
+      }
+    }
+  },
+  "meta_ads": {
+    "active": {
+      "total_count": 9,
+      "formats_by_brand": {
+        "ninja": {
+          "video": 1,
+          "reel": 1,
+          "carousel": 1
+        },
+        "cosori": {
+          "video": 1,
+          "reel": 1
+        },
+        "philips": {
+          "video": 1,
+          "static_image": 1
+        },
+        "tefal": {
+          "video": 1,
+          "carousel": 1
+        }
+      },
+      "hooks_by_brand": {
+        "ninja": {
+          "space_saving": 1,
+          "dual_zone_sync": 1,
+          "easy_cleaning": 1
+        },
+        "cosori": {
+          "energy_savings": 1,
+          "recipe_ecosystem": 1
+        },
+        "philips": {
+          "recipe_ecosystem": 1,
+          "dual_zone_sync": 1
+        },
+        "tefal": {
+          "dual_zone_sync": 1,
+          "energy_savings": 1
+        }
+      },
+      "destinations_by_brand": {
+        "ninja": {
+          "d2c_shop": 3
+        },
+        "cosori": {
+          "d2c_shop": 1,
+          "amazon": 1
+        },
+        "philips": {
+          "d2c_shop": 1,
+          "retailer_partner": 1
+        },
+        "tefal": {
+          "d2c_shop": 1,
+          "retailer_partner": 1
+        }
+      }
+    },
+    "trailing_12m": {
+      "total_count": 17,
+      "formats_by_brand": {
+        "ninja": {
+          "video": 2,
+          "reel": 1,
+          "carousel": 1,
+          "static_image": 1
+        },
+        "cosori": {
+          "video": 2,
+          "reel": 1,
+          "carousel": 1
+        },
+        "philips": {
+          "video": 2,
+          "static_image": 1,
+          "carousel": 1
+        },
+        "tefal": {
+          "video": 2,
+          "carousel": 1,
+          "static_image": 1
+        }
+      },
+      "hooks_by_brand": {
+        "ninja": {
+          "space_saving": 1,
+          "dual_zone_sync": 1,
+          "easy_cleaning": 1,
+          "price_cut": 1,
+          "energy_savings": 1
+        },
+        "cosori": {
+          "energy_savings": 1,
+          "recipe_ecosystem": 1,
+          "price_cut": 1,
+          "healthy_low_fat": 1
+        },
+        "philips": {
+          "recipe_ecosystem": 1,
+          "dual_zone_sync": 1,
+          "healthy_low_fat": 2
+        },
+        "tefal": {
+          "dual_zone_sync": 1,
+          "energy_savings": 1,
+          "price_cut": 1,
+          "easy_cleaning": 1
+        }
+      },
+      "destinations_by_brand": {
+        "ninja": {
+          "d2c_shop": 5
+        },
+        "cosori": {
+          "d2c_shop": 2,
+          "amazon": 2
+        },
+        "philips": {
+          "d2c_shop": 3,
+          "retailer_partner": 1
+        },
+        "tefal": {
+          "d2c_shop": 3,
+          "retailer_partner": 1
+        }
+      }
+    },
+    "raw_active": [
+      {
+        "brand": "ninja",
+        "ad_id": "meta_ninja_2026_01",
+        "platforms": [
+          "Instagram",
+          "Facebook"
+        ],
+        "format": "video",
+        "status": "active",
+        "first_seen_date": "2026-08-15",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 52,
+        "headline": "Platzsparendes Kochen neu gedacht: Ninja DoubleStack XL",
+        "body_copy": "Große Familie, kleine Küche? Der Ninja DoubleStack XL bietet zwei vertikale Garzonen und spart dabei 30% Platz auf der Arbeitsplatte. Koche zwei unterschiedliche Gerichte auf den Punkt fertig dank SYNC-Funktion. Jetzt versandkostenfrei bestellen!",
+        "hook_angle": "space_saving",
+        "target_sku": "Ninja DoubleStack XL (SL400EU)",
+        "cta_text": "Jetzt bestellen",
+        "landing_page_url": "https://www.ninjakitchen.de/produkte/ninja-doublestack-xl-2-ebenen-heissluftfritteuse-9-5l-sl400eu-zidSL400EU",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "250k - 1M",
+        "estimated_spend_eur": 8500.0,
+        "extra": {}
+      },
+      {
+        "brand": "ninja",
+        "ad_id": "meta_ninja_2026_02",
+        "platforms": [
+          "Instagram"
+        ],
+        "format": "reel",
+        "status": "active",
+        "first_seen_date": "2026-09-01",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 35,
+        "headline": "Knusprige Pommes & saftiges Hähnchen gleichzeitig",
+        "body_copy": "Kein Warten mehr. Mit der Ninja Foodi Dual Zone machst du die Hauptspeise und Beilage in zwei getrennten Fächern fertig. Bis zu 75% schneller als ein Umluftofen und bis zu 75% weniger Fett als herkömmliche Frittierer.",
+        "hook_angle": "dual_zone_sync",
+        "target_sku": "Ninja Foodi Dual Zone 9.5L (AF400EU)",
+        "cta_text": "Mehr dazu",
+        "landing_page_url": "https://www.ninjakitchen.de/produkte/ninja-foodi-max-dual-zone-heissluftfritteuse-af400eu-zidAF400EU",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "50k - 250k",
+        "estimated_spend_eur": 4200.0,
+        "extra": {}
+      },
+      {
+        "brand": "ninja",
+        "ad_id": "meta_ninja_2026_03",
+        "platforms": [
+          "Facebook",
+          "Instagram"
+        ],
+        "format": "carousel",
+        "status": "active",
+        "first_seen_date": "2026-09-12",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 24,
+        "headline": "Entdecke das neue CRISPi Glassystem",
+        "body_copy": "Von der Zubereitung über das Garen bis zur Aufbewahrung im selben Glasbehälter. 4-in-1 Flexibilität für Meal Prep Profis. Sichere dir 10% Rabatt mit Code CRISPI10.",
+        "hook_angle": "easy_cleaning",
+        "target_sku": "Ninja CRISPi 4-in-1 (FN101EU)",
+        "cta_text": "Gutscheincode sichern",
+        "landing_page_url": "https://www.ninjakitchen.de/neuheiten",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "50k - 250k",
+        "estimated_spend_eur": 3100.0,
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "ad_id": "meta_cosori_2026_01",
+        "platforms": [
+          "Instagram",
+          "Facebook"
+        ],
+        "format": "video",
+        "status": "active",
+        "first_seen_date": "2026-08-20",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 47,
+        "headline": "10,8 Liter auf 2 Ebenen: Cosori Turbo Tower Pro Smart",
+        "body_copy": "Entwickelt für moderne Küchen. 4 unabhängige Heizelemente und die VeSync App Steuerung garantieren gleichmäßige Bräunung ohne Schütteln. Spare bis zu 55% Stromkosten gegenüber dem Ofen.",
+        "hook_angle": "energy_savings",
+        "target_sku": "Cosori Turbo Tower Pro Smart (CAF-DC123S)",
+        "cta_text": "Jetzt kaufen",
+        "landing_page_url": "https://cosori.de/products/cosori-turbo-tower-pro-smart-heissluftfritteuse",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "250k - 1M",
+        "estimated_spend_eur": 6900.0,
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "ad_id": "meta_cosori_2026_02",
+        "platforms": [
+          "Instagram"
+        ],
+        "format": "reel",
+        "status": "active",
+        "first_seen_date": "2026-09-05",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 31,
+        "headline": "Kein Wenden nötig: 360 ThermoIQ mit Dual Blaze",
+        "body_copy": "Dank oberer und unterer Heizelemente gart der Cosori Dual Blaze alles rundum kross. Lass dich von über 1000 App-Rezepten inspirieren.",
+        "hook_angle": "recipe_ecosystem",
+        "target_sku": "Cosori Dual Blaze 6.4L (CAF-P583S)",
+        "cta_text": "Rezept ansehen",
+        "landing_page_url": "https://www.amazon.de/dp/B09V777M7L",
+        "destination_type": "amazon",
+        "estimated_impressions_tier": "50k - 250k",
+        "estimated_spend_eur": 3800.0,
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "ad_id": "meta_philips_2026_01",
+        "platforms": [
+          "Facebook",
+          "Instagram"
+        ],
+        "format": "video",
+        "status": "active",
+        "first_seen_date": "2026-07-25",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 73,
+        "headline": "Perfektes Garen auf den Punkt: Philips Airfryer Combi 7000",
+        "body_copy": "Nie wieder trockenes Fleisch. Das integrierte Kernthermometer misst die Innentemperatur in Echtzeit und stoppt automatisch bei der gewünschten Garstufe. Verbunden mit der HomeID App für Hunderte personalisierte Rezepte.",
+        "hook_angle": "recipe_ecosystem",
+        "target_sku": "Philips Airfryer Combi 7000 XXL (HD9880/90)",
+        "cta_text": "Jetzt entdecken",
+        "landing_page_url": "https://www.philips.de/c-e/ho/kochen/airfryer/airfryer-combi.html",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "250k - 1M",
+        "estimated_spend_eur": 12500.0,
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "ad_id": "meta_philips_2026_02",
+        "platforms": [
+          "Instagram"
+        ],
+        "format": "static_image",
+        "status": "active",
+        "first_seen_date": "2026-08-30",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 37,
+        "headline": "Zwei Körbe. Unterschiedliche Größen. Perfekt synchron.",
+        "body_copy": "Der Philips Dual Basket 3000 Series vereint einen großen 6L-Korb für Familienportionen und einen kompakten 3L-Korb für Beilagen. Bis zu 90% weniger Fett dank Rapid Air Technologie.",
+        "hook_angle": "dual_zone_sync",
+        "target_sku": "Philips Airfryer Dual Basket 3000 (NA352/00)",
+        "cta_text": "Mehr erfahren",
+        "landing_page_url": "https://www.mediamarkt.de/de/product/_philips-na352-00-airfryer-dual-basket-3000-series-2918231.html",
+        "destination_type": "retailer_partner",
+        "estimated_impressions_tier": "50k - 250k",
+        "estimated_spend_eur": 4500.0,
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "ad_id": "meta_tefal_2026_01",
+        "platforms": [
+          "Facebook",
+          "Instagram"
+        ],
+        "format": "video",
+        "status": "active",
+        "first_seen_date": "2026-08-01",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 66,
+        "headline": "Echte Grillstreifen & 2 Kammern: Tefal Dual Easy Fry & Grill",
+        "body_copy": "Nur Tefal bietet die Kombination aus Heißluftfritteuse und echter Aluguss-Grillplatte. Bereite saftige Steaks mit echten Grillstreifen und krosse Pommes gleichzeitig zu. Entdecke deutsche Qualität von Tefal.",
+        "hook_angle": "dual_zone_sync",
+        "target_sku": "Tefal Dual Easy Fry & Grill 8.3L (EY905B)",
+        "cta_text": "Jetzt entdecken",
+        "landing_page_url": "https://www.tefal.de/p/dual-easy-fry-grill-ey905b/7211004892",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "250k - 1M",
+        "estimated_spend_eur": 9800.0,
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "ad_id": "meta_tefal_2026_02",
+        "platforms": [
+          "Instagram"
+        ],
+        "format": "carousel",
+        "status": "active",
+        "first_seen_date": "2026-09-10",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 26,
+        "headline": "XXL Kapazität für bis zu 8 Personen: Easy Fry Mega",
+        "body_copy": "Mit gigantischen 7,5 Litern Fassungsvermögen zauberst du ganze Hähnchen oder bis zu 1,8 kg Pommes im Handumdrehen. Extra Crisp Technologie spart bis zu 70% Energie.",
+        "hook_angle": "energy_savings",
+        "target_sku": "Tefal Easy Fry Mega 7.5L (EY855D)",
+        "cta_text": "Jetzt ansehen",
+        "landing_page_url": "https://www.otto.de/p/tefal-heissluftfritteuse-easy-fry-mega-ey855d-1875185514",
+        "destination_type": "retailer_partner",
+        "estimated_impressions_tier": "50k - 250k",
+        "estimated_spend_eur": 3900.0,
+        "extra": {}
+      }
+    ],
+    "raw_12m": [
+      {
+        "brand": "ninja",
+        "ad_id": "meta_ninja_2026_01",
+        "platforms": [
+          "Instagram",
+          "Facebook"
+        ],
+        "format": "video",
+        "status": "active",
+        "first_seen_date": "2026-08-15",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 52,
+        "headline": "Platzsparendes Kochen neu gedacht: Ninja DoubleStack XL",
+        "body_copy": "Große Familie, kleine Küche? Der Ninja DoubleStack XL bietet zwei vertikale Garzonen und spart dabei 30% Platz auf der Arbeitsplatte. Koche zwei unterschiedliche Gerichte auf den Punkt fertig dank SYNC-Funktion. Jetzt versandkostenfrei bestellen!",
+        "hook_angle": "space_saving",
+        "target_sku": "Ninja DoubleStack XL (SL400EU)",
+        "cta_text": "Jetzt bestellen",
+        "landing_page_url": "https://www.ninjakitchen.de/produkte/ninja-doublestack-xl-2-ebenen-heissluftfritteuse-9-5l-sl400eu-zidSL400EU",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "250k - 1M",
+        "estimated_spend_eur": 8500.0,
+        "extra": {}
+      },
+      {
+        "brand": "ninja",
+        "ad_id": "meta_ninja_2026_02",
+        "platforms": [
+          "Instagram"
+        ],
+        "format": "reel",
+        "status": "active",
+        "first_seen_date": "2026-09-01",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 35,
+        "headline": "Knusprige Pommes & saftiges Hähnchen gleichzeitig",
+        "body_copy": "Kein Warten mehr. Mit der Ninja Foodi Dual Zone machst du die Hauptspeise und Beilage in zwei getrennten Fächern fertig. Bis zu 75% schneller als ein Umluftofen und bis zu 75% weniger Fett als herkömmliche Frittierer.",
+        "hook_angle": "dual_zone_sync",
+        "target_sku": "Ninja Foodi Dual Zone 9.5L (AF400EU)",
+        "cta_text": "Mehr dazu",
+        "landing_page_url": "https://www.ninjakitchen.de/produkte/ninja-foodi-max-dual-zone-heissluftfritteuse-af400eu-zidAF400EU",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "50k - 250k",
+        "estimated_spend_eur": 4200.0,
+        "extra": {}
+      },
+      {
+        "brand": "ninja",
+        "ad_id": "meta_ninja_2026_03",
+        "platforms": [
+          "Facebook",
+          "Instagram"
+        ],
+        "format": "carousel",
+        "status": "active",
+        "first_seen_date": "2026-09-12",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 24,
+        "headline": "Entdecke das neue CRISPi Glassystem",
+        "body_copy": "Von der Zubereitung über das Garen bis zur Aufbewahrung im selben Glasbehälter. 4-in-1 Flexibilität für Meal Prep Profis. Sichere dir 10% Rabatt mit Code CRISPI10.",
+        "hook_angle": "easy_cleaning",
+        "target_sku": "Ninja CRISPi 4-in-1 (FN101EU)",
+        "cta_text": "Gutscheincode sichern",
+        "landing_page_url": "https://www.ninjakitchen.de/neuheiten",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "50k - 250k",
+        "estimated_spend_eur": 3100.0,
+        "extra": {}
+      },
+      {
+        "brand": "ninja",
+        "ad_id": "meta_ninja_hist_01",
+        "platforms": [
+          "Facebook",
+          "Instagram"
+        ],
+        "format": "video",
+        "status": "inactive_historical",
+        "first_seen_date": "2025-11-15",
+        "last_seen_date": "2025-12-02",
+        "flight_days": 18,
+        "headline": "Black Friday Mega Deals: Bis zu 100€ sparen bei Ninja",
+        "body_copy": "Die größte Rabattaktion des Jahres. Spare bis zu 100€ auf ausgewählte Heißluftfritteusen und Küchengeräte. Nur solange der Vorrat reicht!",
+        "hook_angle": "price_cut",
+        "target_sku": "Ninja Foodi FlexDrawer 10.4L (AF500EU)",
+        "cta_text": "Jetzt shoppen",
+        "landing_page_url": "https://www.ninjakitchen.de/black-friday",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "> 1M",
+        "estimated_spend_eur": 24000.0,
+        "extra": {}
+      },
+      {
+        "brand": "ninja",
+        "ad_id": "meta_ninja_hist_02",
+        "platforms": [
+          "Instagram"
+        ],
+        "format": "static_image",
+        "status": "inactive_historical",
+        "first_seen_date": "2026-03-15",
+        "last_seen_date": "2026-04-10",
+        "flight_days": 26,
+        "headline": "Oster-Backen & Garen mit Ninja",
+        "body_copy": "Frühlingsgenuss leicht gemacht. Spare Energie gegenüber dem herkömmlichen Backofen und zaubere saftige Osterbraten in der MegaZone.",
+        "hook_angle": "energy_savings",
+        "target_sku": "Ninja Foodi FlexDrawer (AF500EU)",
+        "cta_text": "Entdecken",
+        "landing_page_url": "https://www.ninjakitchen.de",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "250k - 1M",
+        "estimated_spend_eur": 7800.0,
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "ad_id": "meta_cosori_2026_01",
+        "platforms": [
+          "Instagram",
+          "Facebook"
+        ],
+        "format": "video",
+        "status": "active",
+        "first_seen_date": "2026-08-20",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 47,
+        "headline": "10,8 Liter auf 2 Ebenen: Cosori Turbo Tower Pro Smart",
+        "body_copy": "Entwickelt für moderne Küchen. 4 unabhängige Heizelemente und die VeSync App Steuerung garantieren gleichmäßige Bräunung ohne Schütteln. Spare bis zu 55% Stromkosten gegenüber dem Ofen.",
+        "hook_angle": "energy_savings",
+        "target_sku": "Cosori Turbo Tower Pro Smart (CAF-DC123S)",
+        "cta_text": "Jetzt kaufen",
+        "landing_page_url": "https://cosori.de/products/cosori-turbo-tower-pro-smart-heissluftfritteuse",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "250k - 1M",
+        "estimated_spend_eur": 6900.0,
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "ad_id": "meta_cosori_2026_02",
+        "platforms": [
+          "Instagram"
+        ],
+        "format": "reel",
+        "status": "active",
+        "first_seen_date": "2026-09-05",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 31,
+        "headline": "Kein Wenden nötig: 360 ThermoIQ mit Dual Blaze",
+        "body_copy": "Dank oberer und unterer Heizelemente gart der Cosori Dual Blaze alles rundum kross. Lass dich von über 1000 App-Rezepten inspirieren.",
+        "hook_angle": "recipe_ecosystem",
+        "target_sku": "Cosori Dual Blaze 6.4L (CAF-P583S)",
+        "cta_text": "Rezept ansehen",
+        "landing_page_url": "https://www.amazon.de/dp/B09V777M7L",
+        "destination_type": "amazon",
+        "estimated_impressions_tier": "50k - 250k",
+        "estimated_spend_eur": 3800.0,
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "ad_id": "meta_cosori_hist_01",
+        "platforms": [
+          "Facebook",
+          "Instagram"
+        ],
+        "format": "carousel",
+        "status": "inactive_historical",
+        "first_seen_date": "2026-07-08",
+        "last_seen_date": "2026-07-18",
+        "flight_days": 10,
+        "headline": "Prime Day Exclusive: Bis zu 35% Rabatt auf Cosori Bestseller",
+        "body_copy": "Exklusiv für Prime Mitglieder. Hol dir die Testsieger Heißluftfritteuse zum Jahreshöchsttiefpreis auf Amazon.",
+        "hook_angle": "price_cut",
+        "target_sku": "Cosori Dual Blaze 6.4L",
+        "cta_text": "Auf Amazon ansehen",
+        "landing_page_url": "https://www.amazon.de/stores/COSORI/page/E58E9793-11C8-4DE3-BC19-4C82E88998C4",
+        "destination_type": "amazon",
+        "estimated_impressions_tier": "250k - 1M",
+        "estimated_spend_eur": 9200.0,
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "ad_id": "meta_cosori_hist_02",
+        "platforms": [
+          "Instagram"
+        ],
+        "format": "video",
+        "status": "inactive_historical",
+        "first_seen_date": "2026-01-02",
+        "last_seen_date": "2026-01-31",
+        "flight_days": 29,
+        "headline": "Neues Jahr, gesünder kochen: Bis zu 85% weniger Öl",
+        "body_copy": "Erreiche deine Fitness-Ziele ohne auf Geschmack zu verzichten. Knusprige Pommes und saftiges Gemüse in Minutenschnelle.",
+        "hook_angle": "healthy_low_fat",
+        "target_sku": "Cosori TurboBlaze 6.0L",
+        "cta_text": "Jetzt starten",
+        "landing_page_url": "https://cosori.de",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "50k - 250k",
+        "estimated_spend_eur": 5100.0,
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "ad_id": "meta_philips_2026_01",
+        "platforms": [
+          "Facebook",
+          "Instagram"
+        ],
+        "format": "video",
+        "status": "active",
+        "first_seen_date": "2026-07-25",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 73,
+        "headline": "Perfektes Garen auf den Punkt: Philips Airfryer Combi 7000",
+        "body_copy": "Nie wieder trockenes Fleisch. Das integrierte Kernthermometer misst die Innentemperatur in Echtzeit und stoppt automatisch bei der gewünschten Garstufe. Verbunden mit der HomeID App für Hunderte personalisierte Rezepte.",
+        "hook_angle": "recipe_ecosystem",
+        "target_sku": "Philips Airfryer Combi 7000 XXL (HD9880/90)",
+        "cta_text": "Jetzt entdecken",
+        "landing_page_url": "https://www.philips.de/c-e/ho/kochen/airfryer/airfryer-combi.html",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "250k - 1M",
+        "estimated_spend_eur": 12500.0,
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "ad_id": "meta_philips_2026_02",
+        "platforms": [
+          "Instagram"
+        ],
+        "format": "static_image",
+        "status": "active",
+        "first_seen_date": "2026-08-30",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 37,
+        "headline": "Zwei Körbe. Unterschiedliche Größen. Perfekt synchron.",
+        "body_copy": "Der Philips Dual Basket 3000 Series vereint einen großen 6L-Korb für Familienportionen und einen kompakten 3L-Korb für Beilagen. Bis zu 90% weniger Fett dank Rapid Air Technologie.",
+        "hook_angle": "dual_zone_sync",
+        "target_sku": "Philips Airfryer Dual Basket 3000 (NA352/00)",
+        "cta_text": "Mehr erfahren",
+        "landing_page_url": "https://www.mediamarkt.de/de/product/_philips-na352-00-airfryer-dual-basket-3000-series-2918231.html",
+        "destination_type": "retailer_partner",
+        "estimated_impressions_tier": "50k - 250k",
+        "estimated_spend_eur": 4500.0,
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "ad_id": "meta_philips_hist_01",
+        "platforms": [
+          "Facebook",
+          "Instagram"
+        ],
+        "format": "video",
+        "status": "inactive_historical",
+        "first_seen_date": "2025-11-20",
+        "last_seen_date": "2025-12-24",
+        "flight_days": 34,
+        "headline": "Das Original zu Weihnachten schenken: Philips Airfryer",
+        "body_copy": "Der meistverkaufte Airfryer der Welt. Über 10 Jahre Innovation und deutsche Stiftung Warentest Auszeichnungen. Schenke gesunden Genuss zum Fest.",
+        "hook_angle": "healthy_low_fat",
+        "target_sku": "Philips Essential XL (HD9270/96)",
+        "cta_text": "Jetzt schenken",
+        "landing_page_url": "https://www.philips.de",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "> 1M",
+        "estimated_spend_eur": 31000.0,
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "ad_id": "meta_philips_hist_02",
+        "platforms": [
+          "Instagram"
+        ],
+        "format": "carousel",
+        "status": "inactive_historical",
+        "first_seen_date": "2026-02-10",
+        "last_seen_date": "2026-03-08",
+        "flight_days": 26,
+        "headline": "Dämpfen und Frittieren in einem Gerät: Series 5000 Steam",
+        "body_copy": "Erlebe die Revolution: Heißluftdämpfen für unvergleichlich saftige Ergebnisse. Erhalte bis zu 99% aller Vitamine.",
+        "hook_angle": "healthy_low_fat",
+        "target_sku": "Philips 5000 Series Steam (NA555/00)",
+        "cta_text": "Jetzt kaufen",
+        "landing_page_url": "https://www.philips.de",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "50k - 250k",
+        "estimated_spend_eur": 5400.0,
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "ad_id": "meta_tefal_2026_01",
+        "platforms": [
+          "Facebook",
+          "Instagram"
+        ],
+        "format": "video",
+        "status": "active",
+        "first_seen_date": "2026-08-01",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 66,
+        "headline": "Echte Grillstreifen & 2 Kammern: Tefal Dual Easy Fry & Grill",
+        "body_copy": "Nur Tefal bietet die Kombination aus Heißluftfritteuse und echter Aluguss-Grillplatte. Bereite saftige Steaks mit echten Grillstreifen und krosse Pommes gleichzeitig zu. Entdecke deutsche Qualität von Tefal.",
+        "hook_angle": "dual_zone_sync",
+        "target_sku": "Tefal Dual Easy Fry & Grill 8.3L (EY905B)",
+        "cta_text": "Jetzt entdecken",
+        "landing_page_url": "https://www.tefal.de/p/dual-easy-fry-grill-ey905b/7211004892",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "250k - 1M",
+        "estimated_spend_eur": 9800.0,
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "ad_id": "meta_tefal_2026_02",
+        "platforms": [
+          "Instagram"
+        ],
+        "format": "carousel",
+        "status": "active",
+        "first_seen_date": "2026-09-10",
+        "last_seen_date": "2026-10-06",
+        "flight_days": 26,
+        "headline": "XXL Kapazität für bis zu 8 Personen: Easy Fry Mega",
+        "body_copy": "Mit gigantischen 7,5 Litern Fassungsvermögen zauberst du ganze Hähnchen oder bis zu 1,8 kg Pommes im Handumdrehen. Extra Crisp Technologie spart bis zu 70% Energie.",
+        "hook_angle": "energy_savings",
+        "target_sku": "Tefal Easy Fry Mega 7.5L (EY855D)",
+        "cta_text": "Jetzt ansehen",
+        "landing_page_url": "https://www.otto.de/p/tefal-heissluftfritteuse-easy-fry-mega-ey855d-1875185514",
+        "destination_type": "retailer_partner",
+        "estimated_impressions_tier": "50k - 250k",
+        "estimated_spend_eur": 3900.0,
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "ad_id": "meta_tefal_hist_01",
+        "platforms": [
+          "Facebook",
+          "Instagram"
+        ],
+        "format": "video",
+        "status": "inactive_historical",
+        "first_seen_date": "2025-11-18",
+        "last_seen_date": "2025-12-05",
+        "flight_days": 17,
+        "headline": "Black Friday bei Tefal: Bis zu 45% Rabatt im Onlineshop",
+        "body_copy": "Exklusive Black Deals auf die beliebtesten Heißluftfritteusen und Kontaktgrills. Hol dir deinen Küchenhelfer vor dem Weihnachts-Ansturm.",
+        "hook_angle": "price_cut",
+        "target_sku": "Tefal Dual Easy Fry (EY905B)",
+        "cta_text": "Zu den Angeboten",
+        "landing_page_url": "https://www.tefal.de/black-friday",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "250k - 1M",
+        "estimated_spend_eur": 18500.0,
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "ad_id": "meta_tefal_hist_02",
+        "platforms": [
+          "Instagram"
+        ],
+        "format": "static_image",
+        "status": "inactive_historical",
+        "first_seen_date": "2026-04-01",
+        "last_seen_date": "2026-05-15",
+        "flight_days": 44,
+        "headline": "Die Grillsaison beginnt drinnen & draußen",
+        "body_copy": "Kein Rauch, kein Stress, maximaler Grillgeschmack. Der Tefal Easy Fry & Grill 2-in-1 bringt Sommergenuss direkt auf deine Arbeitsplatte.",
+        "hook_angle": "easy_cleaning",
+        "target_sku": "Tefal Easy Fry & Grill XXL (EY8018)",
+        "cta_text": "Jetzt bestellen",
+        "landing_page_url": "https://www.tefal.de",
+        "destination_type": "d2c_shop",
+        "estimated_impressions_tier": "50k - 250k",
+        "estimated_spend_eur": 6200.0,
+        "extra": {}
+      }
+    ]
+  },
+  "search_footprint": {
+    "by_brand": {
+      "ninja": {
+        "paid_ads_count": 3,
+        "shopping_pla_count": 1,
+        "organic_top3_count": 1,
+        "keywords": [
+          "ninja airfryer",
+          "heißluftfritteuse 2 kammern",
+          "ninja doublestack xl",
+          "heißluftfritteuse test",
+          "philips airfryer"
+        ]
+      },
+      "cosori": {
+        "paid_ads_count": 1,
+        "shopping_pla_count": 2,
+        "organic_top3_count": 1,
+        "keywords": [
+          "cosori heissluftfritteuse",
+          "cosori dual blaze",
+          "heißluftfritteuse app steuerung",
+          "cosori turbo tower"
+        ]
+      },
+      "philips": {
+        "paid_ads_count": 1,
+        "shopping_pla_count": 1,
+        "organic_top3_count": 2,
+        "keywords": [
+          "philips airfryer",
+          "heißluftfritteuse stiftung warentest",
+          "philips airfryer combi 7000",
+          "airfryer rezept"
+        ]
+      },
+      "tefal": {
+        "paid_ads_count": 1,
+        "shopping_pla_count": 2,
+        "organic_top3_count": 1,
+        "keywords": [
+          "tefal heissluftfritteuse",
+          "tefal dual easy fry",
+          "heißluftfritteuse mit grillfunktion",
+          "tefal ey8018"
+        ]
+      }
+    },
+    "raw": [
+      {
+        "brand": "ninja",
+        "keyword": "ninja airfryer",
+        "search_type": "paid_text_ad",
+        "status": "active",
+        "rank": 1,
+        "title": "Offizieller Ninja Onlineshop | Bis zu 75% Energie sparen",
+        "snippet": "Entdecke preisgekrönte Ninja Airfryer & Doppelkammer-Heißluftfritteusen direkt vom Hersteller. Kostenlose Lieferung ab 30€. 2 Jahre Garantie. Jetzt sparen!",
+        "display_url": "ninjakitchen.de/airfryer",
+        "target_url": "https://www.ninjakitchen.de/produkte/heissluftfritteusen-kategorie",
+        "has_sitelinks": true,
+        "price_shown": null,
+        "extra": {}
+      },
+      {
+        "brand": "ninja",
+        "keyword": "heißluftfritteuse 2 kammern",
+        "search_type": "paid_text_ad",
+        "status": "active",
+        "rank": 1,
+        "title": "Ninja Foodi Dual Zone | 2 Fächer unabhängig garen",
+        "snippet": "Zwei Fächer, zwei Garzeiten, gleichzeitig fertig dank SYNC. Entdecke den Bestseller AF400EU & platzsparenden DoubleStack XL. Jetzt bestellen.",
+        "display_url": "ninjakitchen.de/dual-zone",
+        "target_url": "https://www.ninjakitchen.de",
+        "has_sitelinks": true,
+        "price_shown": null,
+        "extra": {}
+      },
+      {
+        "brand": "ninja",
+        "keyword": "ninja doublestack xl",
+        "search_type": "google_shopping_pla",
+        "status": "active",
+        "rank": 1,
+        "title": "Ninja DoubleStack XL SL400EU 2-Ebenen Heißluftfritteuse 9.5L",
+        "snippet": "Versandkostenfrei · Auf Lager · 2 Jahre Herstellergarantie",
+        "display_url": "ninjakitchen.de",
+        "target_url": "https://www.ninjakitchen.de/produkte/ninja-doublestack-xl",
+        "has_sitelinks": false,
+        "price_shown": 229.99,
+        "extra": {}
+      },
+      {
+        "brand": "ninja",
+        "keyword": "heißluftfritteuse test",
+        "search_type": "organic_serp",
+        "status": "active",
+        "rank": 2,
+        "title": "Ninja Heißluftfritteusen: Modelle, Vergleiche & Testsieger",
+        "snippet": "Entdecke die beliebtesten Ninja Modelle im Überblick. Dual Zone, FlexDrawer und DoubleStack im direkten Funktionsvergleich.",
+        "display_url": "ninjakitchen.de/ratgeber/test-vergleich",
+        "target_url": "https://www.ninjakitchen.de/ratgeber",
+        "has_sitelinks": true,
+        "price_shown": null,
+        "extra": {}
+      },
+      {
+        "brand": "ninja",
+        "keyword": "philips airfryer",
+        "search_type": "paid_text_ad",
+        "status": "last_12m",
+        "rank": 2,
+        "title": "Alternative gesucht? Ninja Foodi Dual Zone entdecken",
+        "snippet": "Warum nur ein Korb? Mit Ninja Dual Zone zwei Gerichte gleichzeitig synchron fertigstellen. Jetzt den Testsieger vergleichen.",
+        "display_url": "ninjakitchen.de/vergleich",
+        "target_url": "https://www.ninjakitchen.de",
+        "has_sitelinks": false,
+        "price_shown": null,
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "keyword": "cosori heissluftfritteuse",
+        "search_type": "paid_text_ad",
+        "status": "active",
+        "rank": 1,
+        "title": "Offizieller Cosori Shop Deutschland | Smarte Heißluftfritteusen",
+        "snippet": "Entdecke Cosori Heißluftfritteusen mit 360° ThermoIQ & VeSync App. Bis zu 85% weniger Fett & 55% Energie sparen. Schnelle Lieferung.",
+        "display_url": "cosori.de",
+        "target_url": "https://cosori.de",
+        "has_sitelinks": true,
+        "price_shown": null,
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "keyword": "cosori dual blaze",
+        "search_type": "google_shopping_pla",
+        "status": "active",
+        "rank": 2,
+        "title": "COSORI Dual Blaze 6,4L Heißluftfritteuse (CAF-P583S) Dunkelgrau",
+        "snippet": "Amazon Prime · Kostenlose Lieferung für Prime-Mitglieder",
+        "display_url": "amazon.de",
+        "target_url": "https://www.amazon.de/dp/B09V777M7L",
+        "has_sitelinks": false,
+        "price_shown": 139.99,
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "keyword": "heißluftfritteuse app steuerung",
+        "search_type": "organic_serp",
+        "status": "active",
+        "rank": 1,
+        "title": "Smart Kochen mit der VeSync App & Cosori Heißluftfritteusen",
+        "snippet": "Steuere Garzeiten vom Smartphone, erhalte Benachrichtigungen und wähle aus über 1.000 erprobten Chefkoch-Rezepten.",
+        "display_url": "cosori.de/pages/vesync-app",
+        "target_url": "https://cosori.de/pages/vesync-app",
+        "has_sitelinks": false,
+        "price_shown": null,
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "keyword": "cosori turbo tower",
+        "search_type": "google_shopping_pla",
+        "status": "active",
+        "rank": 1,
+        "title": "COSORI Turbo Tower Pro Smart 10,8L Heißluftfritteuse Doppelkammer",
+        "snippet": "Auf Lager bei Amazon & Otto · 4 Heizelemente",
+        "display_url": "amazon.de",
+        "target_url": "https://www.amazon.de",
+        "has_sitelinks": false,
+        "price_shown": 249.99,
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "keyword": "philips airfryer",
+        "search_type": "paid_text_ad",
+        "status": "active",
+        "rank": 1,
+        "title": "Philips Airfryer | Das Original für gesunden Knuspergenuss",
+        "snippet": "Bis zu 90% weniger Fett dank patentierter Rapid Air Seestern-Technologie. Entdecke Combi 7000 XXL & Dual Basket. Kostenloser Rückversand.",
+        "display_url": "philips.de/airfryer",
+        "target_url": "https://www.philips.de/c-m-ho/kochen/heissluftfritteuse",
+        "has_sitelinks": true,
+        "price_shown": null,
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "keyword": "heißluftfritteuse stiftung warentest",
+        "search_type": "organic_serp",
+        "status": "active",
+        "rank": 1,
+        "title": "Philips Airfryer: Stiftung Warentest Auszeichnungen & Testsieger",
+        "snippet": "Wiederholt von Stiftung Warentest mit Bestnoten ausgezeichnet. Entdecke die Testergebnisse unserer XXL & Dual Basket Modelle.",
+        "display_url": "philips.de/c-e/ho/kochen/airfryer/testsieger.html",
+        "target_url": "https://www.philips.de",
+        "has_sitelinks": true,
+        "price_shown": null,
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "keyword": "philips airfryer combi 7000",
+        "search_type": "google_shopping_pla",
+        "status": "active",
+        "rank": 1,
+        "title": "Philips HD9880/90 Airfryer Combi 7000 Series XXL mit Fleischthermometer",
+        "snippet": "Versandkostenfrei · MediaMarkt Online Shop",
+        "display_url": "mediamarkt.de",
+        "target_url": "https://www.mediamarkt.de",
+        "has_sitelinks": false,
+        "price_shown": 349.0,
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "keyword": "airfryer rezept",
+        "search_type": "organic_serp",
+        "status": "active",
+        "rank": 2,
+        "title": "Über 500 Heißluftfritteusen Rezepte in der Philips HomeID App",
+        "snippet": "Einfache Schritt-für-Schritt Anleitungen für knusprige Gerichte, Kuchen und vegetarische Köstlichkeiten mit deinem Philips Airfryer.",
+        "display_url": "philips.de/c-e/ho/kochen/homeid-app",
+        "target_url": "https://www.philips.de",
+        "has_sitelinks": false,
+        "price_shown": null,
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "keyword": "tefal heissluftfritteuse",
+        "search_type": "paid_text_ad",
+        "status": "active",
+        "rank": 1,
+        "title": "Tefal Heißluftfritteusen | 2-in-1 Grillen & Frittieren",
+        "snippet": "Knusprig frittieren und saftig grillen mit echter Aluguss-Grillplatte. Entdecke Dual Easy Fry & XXL Modelle. Offizieller Tefal Shop.",
+        "display_url": "tefal.de/fritteusen",
+        "target_url": "https://www.tefal.de",
+        "has_sitelinks": true,
+        "price_shown": null,
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "keyword": "tefal dual easy fry",
+        "search_type": "google_shopping_pla",
+        "status": "active",
+        "rank": 1,
+        "title": "Tefal EY905B Dual Easy Fry & Grill 8.3L Heißluftfritteuse Edelstahl",
+        "snippet": "Otto.de · Jetzt mit Otto Up Punkte sammeln",
+        "display_url": "otto.de",
+        "target_url": "https://www.otto.de",
+        "has_sitelinks": false,
+        "price_shown": 129.0,
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "keyword": "heißluftfritteuse mit grillfunktion",
+        "search_type": "organic_serp",
+        "status": "active",
+        "rank": 1,
+        "title": "Tefal Easy Fry & Grill: Heißluftfritteuse und Grill in Einem",
+        "snippet": "Dank Druckguss-Grillplatte gelingen echte Grillstreifen ohne Rauch. 2 Garzonen für synchrones Servieren.",
+        "display_url": "tefal.de/easy-fry-and-grill",
+        "target_url": "https://www.tefal.de",
+        "has_sitelinks": false,
+        "price_shown": null,
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "keyword": "tefal ey8018",
+        "search_type": "google_shopping_pla",
+        "status": "active",
+        "rank": 2,
+        "title": "Tefal EY8018 Easy Fry & Grill XXL 6,5 Liter Heißluftfritteuse Flexcook",
+        "snippet": "MediaMarkt Club Tage Angebot",
+        "display_url": "mediamarkt.de",
+        "target_url": "https://www.mediamarkt.de",
+        "has_sitelinks": false,
+        "price_shown": 89.99,
+        "extra": {}
+      }
+    ]
+  },
+  "affiliates": {
+    "by_brand": {
+      "ninja": {
+        "active_deals_count": 2,
+        "total_deals_12m": 3,
+        "avg_temperature_deg": 921.7,
+        "avg_discount_pct": 38.2,
+        "top_vouchers": [
+          "NINJA15",
+          "NEWSLETTER10"
+        ],
+        "merchants": [
+          "Ninja Kitchen Onlineshop (D2C)",
+          "Ninja Kitchen D2C",
+          "Amazon.de"
+        ],
+        "networks": [
+          "Awin (Merchant ID: 22765)",
+          "Amazon Associates (Partner-Tag: mydealz-21)",
+          "Awin"
+        ]
+      },
+      "cosori": {
+        "active_deals_count": 2,
+        "total_deals_12m": 3,
+        "avg_temperature_deg": 640.7,
+        "avg_discount_pct": 33.6,
+        "top_vouchers": [
+          "Klick-Coupon 70€",
+          "PRIME EXCLUSIVE"
+        ],
+        "merchants": [
+          "Amazon.de (Verkauf durch VeSync Europe)",
+          "Amazon.de"
+        ],
+        "networks": [
+          "Amazon Associates"
+        ]
+      },
+      "philips": {
+        "active_deals_count": 2,
+        "total_deals_12m": 3,
+        "avg_temperature_deg": 616.7,
+        "avg_discount_pct": 41.2,
+        "top_vouchers": [
+          "Club-Gutschein",
+          "82390 (15% Rabatt)",
+          "BLACKWEEKS"
+        ],
+        "merchants": [
+          "Otto.de",
+          "Philips Onlineshop (D2C)",
+          "MediaMarkt.de"
+        ],
+        "networks": [
+          "Tradedoubler (Otto Affiliate)",
+          "Awin (Versuni Merchant)",
+          "Awin (MediaMarkt Publisher Channel)"
+        ]
+      },
+      "tefal": {
+        "active_deals_count": 2,
+        "total_deals_12m": 3,
+        "avg_temperature_deg": 828.3,
+        "avg_discount_pct": 57.7,
+        "top_vouchers": [
+          "Direktabzug im Warenkorb"
+        ],
+        "merchants": [
+          "Kaufland.de Marketplace",
+          "MediaMarkt.de",
+          "Amazon.de"
+        ],
+        "networks": [
+          "Awin (Kaufland e-Commerce)",
+          "Amazon Associates",
+          "Awin"
+        ]
+      }
+    },
+    "raw": [
+      {
+        "brand": "ninja",
+        "deal_id": "mydealz_ninja_01",
+        "title": "Ninja DoubleStack XL 9,5L Heißluftfritteuse (SL400EU) für 169,99€ direkt bei Ninja",
+        "merchant": "Ninja Kitchen Onlineshop (D2C)",
+        "deal_price_eur": 169.99,
+        "original_price_eur": 269.99,
+        "discount_pct": 37.0,
+        "temperature_deg": 680,
+        "voucher_code": "NINJA15",
+        "deal_url": "https://www.mydealz.de/deals/ninja-doublestack-xl-heissluftfritteuse-sl400eu",
+        "affiliate_network": "Awin (Merchant ID: 22765)",
+        "date_posted": "2026-09-18",
+        "status": "active",
+        "comments_count": 142,
+        "creator_collaborator": "@foodwithlove_de (Instagram Ambassador)",
+        "extra": {}
+      },
+      {
+        "brand": "ninja",
+        "deal_id": "mydealz_ninja_02",
+        "title": "Ninja Foodi Dual Zone AF300EU 7,6L Heißluftfritteuse für 129€ bei Amazon",
+        "merchant": "Amazon.de",
+        "deal_price_eur": 129.0,
+        "original_price_eur": 229.99,
+        "discount_pct": 43.9,
+        "temperature_deg": 845,
+        "voucher_code": null,
+        "deal_url": "https://www.mydealz.de/deals/ninja-foodi-dual-zone-af300eu",
+        "affiliate_network": "Amazon Associates (Partner-Tag: mydealz-21)",
+        "date_posted": "2026-08-25",
+        "status": "active",
+        "comments_count": 218,
+        "creator_collaborator": null,
+        "extra": {}
+      },
+      {
+        "brand": "ninja",
+        "deal_id": "mydealz_ninja_hist_01",
+        "title": "[Black Friday] Ninja Foodi FlexDrawer 10,4L AF500EU für 179€ mit Newslettergutschein",
+        "merchant": "Ninja Kitchen D2C",
+        "deal_price_eur": 179.0,
+        "original_price_eur": 269.99,
+        "discount_pct": 33.7,
+        "temperature_deg": 1240,
+        "voucher_code": "NEWSLETTER10",
+        "deal_url": "https://www.mydealz.de/deals/ninja-flexdrawer-black-friday",
+        "affiliate_network": "Awin",
+        "date_posted": "2025-11-24",
+        "status": "expired_historical",
+        "comments_count": 395,
+        "creator_collaborator": "@bbq_pitmasters_germany",
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "deal_id": "mydealz_cosori_01",
+        "title": "COSORI Turbo Tower Pro Smart 10,8L Heißluftfritteuse Doppelkammer für 199,99€ bei Amazon",
+        "merchant": "Amazon.de (Verkauf durch VeSync Europe)",
+        "deal_price_eur": 199.99,
+        "original_price_eur": 269.99,
+        "discount_pct": 25.9,
+        "temperature_deg": 412,
+        "voucher_code": "Klick-Coupon 70€",
+        "deal_url": "https://www.mydealz.de/deals/cosori-turbo-tower-pro-smart-108l",
+        "affiliate_network": "Amazon Associates",
+        "date_posted": "2026-09-08",
+        "status": "active",
+        "comments_count": 89,
+        "creator_collaborator": "@kochen_mit_herz_de (TikTok Food Creator)",
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "deal_id": "mydealz_cosori_02",
+        "title": "COSORI Dual Blaze 6,4L XXL Heißluftfritteuse ohne Wenden für 119€",
+        "merchant": "Amazon.de",
+        "deal_price_eur": 119.0,
+        "original_price_eur": 189.99,
+        "discount_pct": 37.4,
+        "temperature_deg": 590,
+        "voucher_code": null,
+        "deal_url": "https://www.mydealz.de/deals/cosori-dual-blaze-xxl",
+        "affiliate_network": "Amazon Associates",
+        "date_posted": "2026-08-14",
+        "status": "active",
+        "comments_count": 134,
+        "creator_collaborator": null,
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "deal_id": "mydealz_cosori_hist_01",
+        "title": "[Prime Day] COSORI TurboBlaze 6L mit DC-Motor für 99,99€ (Bestpreis)",
+        "merchant": "Amazon.de",
+        "deal_price_eur": 99.99,
+        "original_price_eur": 159.99,
+        "discount_pct": 37.5,
+        "temperature_deg": 920,
+        "voucher_code": "PRIME EXCLUSIVE",
+        "deal_url": "https://www.mydealz.de/deals/cosori-turboblaze-prime-day",
+        "affiliate_network": "Amazon Associates",
+        "date_posted": "2026-07-16",
+        "status": "expired_historical",
+        "comments_count": 270,
+        "creator_collaborator": "@airfryer_tipps_germany",
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "deal_id": "mydealz_philips_01",
+        "title": "Philips Airfryer Dual Basket 3000 Series (NA352/00) 9L für 139€ bei MediaMarkt",
+        "merchant": "MediaMarkt.de",
+        "deal_price_eur": 139.0,
+        "original_price_eur": 219.99,
+        "discount_pct": 36.8,
+        "temperature_deg": 525,
+        "voucher_code": "Club-Gutschein",
+        "deal_url": "https://www.mydealz.de/deals/philips-airfryer-dual-basket-3000",
+        "affiliate_network": "Awin (MediaMarkt Publisher Channel)",
+        "date_posted": "2026-09-22",
+        "status": "active",
+        "comments_count": 96,
+        "creator_collaborator": null,
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "deal_id": "mydealz_philips_02",
+        "title": "Philips Essential XL HD9270/96 Airfryer für 79,99€ bei Otto",
+        "merchant": "Otto.de",
+        "deal_price_eur": 79.99,
+        "original_price_eur": 149.99,
+        "discount_pct": 46.7,
+        "temperature_deg": 710,
+        "voucher_code": "82390 (15% Rabatt)",
+        "deal_url": "https://www.mydealz.de/deals/philips-essential-xl-otto",
+        "affiliate_network": "Tradedoubler (Otto Affiliate)",
+        "date_posted": "2026-08-30",
+        "status": "active",
+        "comments_count": 155,
+        "creator_collaborator": "@schnelle_rezepte_de",
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "deal_id": "mydealz_philips_hist_01",
+        "title": "Philips Combi 7000 Series XXL HD9880/90 mit Speisenthermometer für 269€ (UVP: 449€)",
+        "merchant": "Philips Onlineshop (D2C)",
+        "deal_price_eur": 269.0,
+        "original_price_eur": 449.99,
+        "discount_pct": 40.2,
+        "temperature_deg": 615,
+        "voucher_code": "BLACKWEEKS",
+        "deal_url": "https://www.mydealz.de/deals/philips-combi-7000-xxl-black-week",
+        "affiliate_network": "Awin (Versuni Merchant)",
+        "date_posted": "2025-11-22",
+        "status": "expired_historical",
+        "comments_count": 184,
+        "creator_collaborator": "@chefkoch_magazin",
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "deal_id": "mydealz_tefal_01",
+        "title": "Tefal EY905B Dual Easy Fry & Grill 8,3L Zweikammer für 119€ bei Kaufland",
+        "merchant": "Kaufland.de Marketplace",
+        "deal_price_eur": 119.0,
+        "original_price_eur": 249.99,
+        "discount_pct": 52.4,
+        "temperature_deg": 880,
+        "voucher_code": null,
+        "deal_url": "https://www.mydealz.de/deals/tefal-dual-easy-fry-grill-ey905b",
+        "affiliate_network": "Awin (Kaufland e-Commerce)",
+        "date_posted": "2026-09-15",
+        "status": "active",
+        "comments_count": 210,
+        "creator_collaborator": "@bbq_deutschland",
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "deal_id": "mydealz_tefal_02",
+        "title": "Tefal Easy Fry & Grill XXL EY8018 6,5L für 69,99€ bei MediaMarkt",
+        "merchant": "MediaMarkt.de",
+        "deal_price_eur": 69.99,
+        "original_price_eur": 189.99,
+        "discount_pct": 63.2,
+        "temperature_deg": 965,
+        "voucher_code": "Direktabzug im Warenkorb",
+        "deal_url": "https://www.mydealz.de/deals/tefal-ey8018-mediamarkt",
+        "affiliate_network": "Awin",
+        "date_posted": "2026-08-10",
+        "status": "active",
+        "comments_count": 312,
+        "creator_collaborator": null,
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "deal_id": "mydealz_tefal_hist_01",
+        "title": "[Oster-Deal] Tefal Actifry Genius XL Heißluftfritteuse für 139,99€ (UVP: 329€)",
+        "merchant": "Amazon.de",
+        "deal_price_eur": 139.99,
+        "original_price_eur": 329.99,
+        "discount_pct": 57.6,
+        "temperature_deg": 640,
+        "voucher_code": null,
+        "deal_url": "https://www.mydealz.de/deals/tefal-actifry-genius-xl-ostern",
+        "affiliate_network": "Amazon Associates",
+        "date_posted": "2026-03-24",
+        "status": "expired_historical",
+        "comments_count": 178,
+        "creator_collaborator": null,
+        "extra": {}
+      }
+    ]
+  },
+  "pr_coverage": {
+    "by_brand": {
+      "ninja": {
+        "releases_count": 3,
+        "categories": {
+          "product_launch": 1,
+          "award_test_win": 1,
+          "corporate_expansion": 1
+        },
+        "award_wins": 1,
+        "latest_headline": "SharkNinja revolutioniert deutsche Küchen mit dem neuen DoubleStack XL auf der IFA Berlin"
+      },
+      "cosori": {
+        "releases_count": 3,
+        "categories": {
+          "product_launch": 1,
+          "award_test_win": 1,
+          "corporate_expansion": 1
+        },
+        "award_wins": 1,
+        "latest_headline": "Cosori bringt Turbo Tower Pro Smart Heißluftfritteuse nach Deutschland"
+      },
+      "philips": {
+        "releases_count": 3,
+        "categories": {
+          "product_launch": 1,
+          "award_test_win": 1,
+          "campaign_launch": 1
+        },
+        "award_wins": 1,
+        "latest_headline": "Versuni Germany präsentiert die neue Philips 5000 Series Dampf-Heißluftfritteuse"
+      },
+      "tefal": {
+        "releases_count": 3,
+        "categories": {
+          "campaign_launch": 1,
+          "award_test_win": 1,
+          "corporate_expansion": 1
+        },
+        "award_wins": 1,
+        "latest_headline": "Tefal startet bundesweite TV- und Digital-Offensive für Dual Easy Fry & Grill"
+      }
+    },
+    "raw": [
+      {
+        "brand": "ninja",
+        "release_id": "pr_ninja_01",
+        "title": "SharkNinja revolutioniert deutsche Küchen mit dem neuen DoubleStack XL auf der IFA Berlin",
+        "summary": "SharkNinja Europe präsentiert auf der IFA in Berlin die erste vertikale Doppelkammer-Heißluftfritteuse. Das innovative Design spart wertvollen Platz in städtischen Küchen und reagiert auf die wachsende Nachfrage nach flexibler Mehrzonen-Zubereitung.",
+        "publisher_source": "Presseportal.de / PR Newswire",
+        "category": "product_launch",
+        "date": "2026-09-04",
+        "status": "active_campaign",
+        "url": "https://www.presseportal.de/pm/165432/sharkninja-ifa-berlin-doublestack",
+        "key_spokesperson": "Michael Maier (Managing Director DACH, SharkNinja Europe GmbH)",
+        "sentiment": "positive",
+        "extra": {}
+      },
+      {
+        "brand": "ninja",
+        "release_id": "pr_ninja_02",
+        "title": "Stiftung Warentest kürt Ninja Foodi Dual Zone zum Testsieger bei Mehrkammer-Fritteusen",
+        "summary": "Im großen Vergleichstest von Heißluftfritteusen mit zwei Garzonen überzeugt der Ninja AF300EU/AF400EU mit der besten Hitzeverteilung, geringstem Stromverbrauch und intuitiver Handhabung (Gesamtnote: Gut 1,8).",
+        "publisher_source": "Stiftung Warentest (test.de) & CHIP Test",
+        "category": "award_test_win",
+        "date": "2026-05-12",
+        "status": "active_campaign",
+        "url": "https://www.test.de/heissluftfritteusen-im-test",
+        "key_spokesperson": "Dr. Holger Brackemann (Bereichsleiter Untersuchungen)",
+        "sentiment": "positive",
+        "extra": {}
+      },
+      {
+        "brand": "ninja",
+        "release_id": "pr_ninja_hist_01",
+        "title": "SharkNinja eröffnet neue DACH-Zentrale in Frankfurt am Main zur Beschleunigung des Marktwachstums",
+        "summary": "Mit dem Ausbau der deutschen Niederlassung in Frankfurt forciert SharkNinja seine Fachhandels-Präsenz bei MediaMarkt, Saturn und Expert sowie den Ausbau des deutschsprachigen Kundensupports.",
+        "publisher_source": "Möbel Kultur / CE-Markt",
+        "category": "corporate_expansion",
+        "date": "2025-10-15",
+        "status": "historical_12m",
+        "url": "https://www.moebelkultur.de/news/sharkninja-frankfurt-expansion",
+        "key_spokesperson": "Neil Shah (Chief Commercial Officer EMEA)",
+        "sentiment": "positive",
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "release_id": "pr_cosori_01",
+        "title": "Cosori bringt Turbo Tower Pro Smart Heißluftfritteuse nach Deutschland",
+        "summary": "VeSync Europe kündigt den Marktstart des Flaggschiffmodells Cosori Turbo Tower Pro Smart an. Mit 10,8 Litern Gesamtkapazität, vier getrennten Heizelementen und Vollintegration in das smarte VeSync-Ökosystem setzt das Modell neue Maßstäbe für Familienhaushalte.",
+        "publisher_source": "Firmenpresse.de / SmartHome Magazin",
+        "category": "product_launch",
+        "date": "2026-08-28",
+        "status": "active_campaign",
+        "url": "https://www.firmenpresse.de/pressinfo2026-cosori-turbo-tower.html",
+        "key_spokesperson": "Lin Yang (European Marketing Lead, VeSync Europe B.V.)",
+        "sentiment": "positive",
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "release_id": "pr_cosori_02",
+        "title": "ETM Testmagazin Testurteil 'Sehr Gut' (94,2%) für Cosori Dual Blaze Heißluftfritteuse",
+        "summary": "Das renommierte Testmagazin bewertet die 360 ThermoIQ Technologie mit Ober- und Unterhitze als beste Lösung gegen ungleichmäßiges Garergebnis ohne manuelles Schütteln.",
+        "publisher_source": "ETM Testmagazin",
+        "category": "award_test_win",
+        "date": "2026-03-18",
+        "status": "active_campaign",
+        "url": "https://etm-testmagazin.de/tests/cosori-dual-blaze-test",
+        "key_spokesperson": "Redaktion ETM Testmagazin",
+        "sentiment": "positive",
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "release_id": "pr_cosori_hist_01",
+        "title": "Cosori erreicht 500.000 aktive Nutzer der VeSync App im deutschsprachigen Raum",
+        "summary": "Die Kombination aus Küchenhardware und digitaler Rezeptplattform erzielt Rekordbindung in Deutschland, Österreich und der Schweiz.",
+        "publisher_source": "Presseportal.de",
+        "category": "corporate_expansion",
+        "date": "2025-12-08",
+        "status": "historical_12m",
+        "url": "https://www.presseportal.de/pm/cosori-vesync-nutzer-rekord",
+        "key_spokesperson": "VeSync Communications DACH",
+        "sentiment": "positive",
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "release_id": "pr_philips_01",
+        "title": "Versuni Germany präsentiert die neue Philips 5000 Series Dampf-Heißluftfritteuse",
+        "summary": "Philips erweitert sein Pionier-Portfolio um eine bahnbrechende Kombination: Heißluftfrittieren trifft auf zuschaltbaren Dampfstoß. Lebensmittel bleiben innen bis zu 30% saftiger und behalten empfindliche Vitamine.",
+        "publisher_source": "Presseportal.de / Versuni Newsroom",
+        "category": "product_launch",
+        "date": "2026-06-15",
+        "status": "active_campaign",
+        "url": "https://www.presseportal.de/pm/168921/versuni-philips-steam-5000",
+        "key_spokesperson": "Henk Siebren de Jong (CEO Versuni)",
+        "sentiment": "positive",
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "release_id": "pr_philips_02",
+        "title": "Haus & Garten Test: Philips Airfryer Combi 7000 Series XXL ist Testsieger der Spitzenklasse",
+        "summary": "Mit Bestnoten in Sensorik, Temperaturkonstanz und automatischer Speisenthermometer-Erkennung setzt sich Philips gegen alle Wettbewerber im Premiumsegment durch.",
+        "publisher_source": "Haus & Garten Test",
+        "category": "award_test_win",
+        "date": "2026-04-02",
+        "status": "active_campaign",
+        "url": "https://www.haus-garten-test.de/tests/philips-combi-7000-airfryer-test",
+        "key_spokesperson": "Haus & Garten Test Prüflabor",
+        "sentiment": "positive",
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "release_id": "pr_philips_hist_01",
+        "title": "Vom Erfinder des Airfryers: 15 Jahre Philips Airfryer Meilenstein in Deutschland",
+        "summary": "Versuni feiert das Jubiläum der ersten Heißluftfritteuse der Welt mit einer bundesweiten Handelskampagne und Kochbuch-Kooperationen mit führenden Ernährungswissenschaftlern.",
+        "publisher_source": "Horizont / W&V Marketing",
+        "category": "campaign_launch",
+        "date": "2025-11-05",
+        "status": "historical_12m",
+        "url": "https://www.horizont.net/marketing/nachrichten/versuni-philips-airfryer-jubilaeum",
+        "key_spokesperson": "Klaus Vogt (Marketing Director DACH, Versuni)",
+        "sentiment": "positive",
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "release_id": "pr_tefal_01",
+        "title": "Tefal startet bundesweite TV- und Digital-Offensive für Dual Easy Fry & Grill",
+        "summary": "Groupe SEB investiert einen siebenstelligen Werbeetat in Deutschland zur Etablierung des Dual Easy Fry Konzepts. Kernbotschaft: Erstklassiges Grillen mit echten Grillstreifen vereint mit fettarmem Heißluftfrittieren.",
+        "publisher_source": "W&V / Presseportal.de",
+        "category": "campaign_launch",
+        "date": "2026-08-10",
+        "status": "active_campaign",
+        "url": "https://www.wuv.de/marketing/tefal-dual-easy-fry-kampagne",
+        "key_spokesperson": "Christophe de Labarthe (Geschäftsführer Groupe SEB DACH)",
+        "sentiment": "positive",
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "release_id": "pr_tefal_02",
+        "title": "FAZ Kaufkompass empfiehlt Tefal Dual Easy Fry als Preis-Leistungs-Sieger",
+        "summary": "Das Testportal der Frankfurter Allgemeinen Zeitung lobt die robuste Aluguss-Grillplatte, das exzellente Preis-Leistungs-Verhältnis und die leichte Reinigung in der Spülmaschine.",
+        "publisher_source": "FAZ Kaufkompass",
+        "category": "award_test_win",
+        "date": "2026-07-04",
+        "status": "active_campaign",
+        "url": "https://www.faz.net/kaufkompass/test/die-beste-heissluftfritteuse/",
+        "key_spokesperson": "FAZ Kaufkompass Redaktion",
+        "sentiment": "positive",
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "release_id": "pr_tefal_hist_01",
+        "title": "Groupe SEB schließt erfolgreiche REWE Treuepunkt-Aktion mit Tefal Küchengeräten ab",
+        "summary": "Über 400.000 deutsche Haushalte sicherten sich Heißluftfritteusen und Kochgeschirr im Rahmen der bundesweiten Einzelhandels-Aktivierung im Lebensmitteleinzelhandel.",
+        "publisher_source": "Lebensmittel Zeitung (LZ)",
+        "category": "corporate_expansion",
+        "date": "2026-01-20",
+        "status": "historical_12m",
+        "url": "https://www.lebensmittelzeitung.net/handel/nachrichten/rewe-treueaktion-tefal",
+        "key_spokesperson": "Vertriebsleitung Groupe SEB Deutschland",
+        "sentiment": "positive",
+        "extra": {}
+      }
+    ]
+  },
+  "retail_activations": {
+    "by_brand": {
+      "ninja": {
+        "activations_count": 3,
+        "retailers": [
+          "Otto",
+          "MediaMarkt",
+          "Amazon"
+        ],
+        "types": {
+          "brand_store_hub": 1,
+          "exclusive_color_sku": 1,
+          "prime_day_spotlight": 1
+        },
+        "lead_campaign": "Exklusiver Ninja Kitchen Markenshop & POS-Erlebnisflächen"
+      },
+      "cosori": {
+        "activations_count": 3,
+        "retailers": [
+          "Otto",
+          "MediaMarkt",
+          "Amazon"
+        ],
+        "types": {
+          "brand_store_hub": 1,
+          "bundle_deal": 1,
+          "flyer_frontpage": 1
+        },
+        "lead_campaign": "Offizieller COSORI Amazon Brand Store mit A+ Content & Video-Showcase"
+      },
+      "philips": {
+        "activations_count": 3,
+        "retailers": [
+          "Otto",
+          "MediaMarkt",
+          "Amazon"
+        ],
+        "types": {
+          "flyer_frontpage": 1,
+          "brand_store_hub": 1,
+          "bundle_deal": 1
+        },
+        "lead_campaign": "MediaMarkt Club Tage: Philips Airfryer Combi 7000 als Flaggschiff"
+      },
+      "tefal": {
+        "activations_count": 3,
+        "retailers": [
+          "Otto",
+          "MediaMarkt",
+          "Amazon"
+        ],
+        "types": {
+          "brand_store_hub": 1,
+          "bundle_deal": 1,
+          "prime_day_spotlight": 1
+        },
+        "lead_campaign": "Tefal Markenwelt auf Otto.de mit 'Genuss ohne Reue' Themenwoche"
+      }
+    },
+    "raw": [
+      {
+        "brand": "ninja",
+        "retailer": "MediaMarkt",
+        "activation_type": "brand_store_hub",
+        "title": "Exklusiver Ninja Kitchen Markenshop & POS-Erlebnisflächen",
+        "headline_claim": "Entdecke die ganze Welt von Ninja live im Markt und online",
+        "status": "active",
+        "period": "Q3-Q4 2026",
+        "details": "Eigener interaktiver Markenshop auf MediaMarkt.de mit Video-Einbindungen sowie prominente POS-Endkappen-Präsenz in über 180 deutschen MediaMarkt-Filialen.",
+        "url": "https://www.mediamarkt.de/de/brand/ninja",
+        "extra": {}
+      },
+      {
+        "brand": "ninja",
+        "retailer": "Otto",
+        "activation_type": "exclusive_color_sku",
+        "title": "Otto Exklusiv: Ninja DoubleStack XL in Sonderfarbe 'White / Rose Gold'",
+        "headline_claim": "Nur bei Otto: Stylishes Design für moderne Einbauküchen",
+        "status": "active",
+        "period": "Herbst 2026",
+        "details": "Exklusive Farbvariante des Bestsellers SL400EUWH zur Stärkung der jüngeren, designorientierten Zielgruppe auf Otto.de.",
+        "url": "https://www.otto.de/marken/ninja",
+        "extra": {}
+      },
+      {
+        "brand": "ninja",
+        "retailer": "Amazon",
+        "activation_type": "prime_day_spotlight",
+        "title": "Amazon Prime Big Deal Days: 'Deal des Tages' Titelseite",
+        "headline_claim": "Ninja Foodi Dual Zone zum Prime-Exklusivpreis",
+        "status": "seasonal_flight_12m",
+        "period": "Oktober 2025 & Juli 2026",
+        "details": "Höchste Platzierungsstufe auf der Amazon.de Startseite während der Prime Days mit 'Bestseller Nr. 1' Badge im Bereich Fritteusen.",
+        "url": "https://www.amazon.de",
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "retailer": "Amazon",
+        "activation_type": "brand_store_hub",
+        "title": "Offizieller COSORI Amazon Brand Store mit A+ Content & Video-Showcase",
+        "headline_claim": "Koche wie ein Profi mit preisgekrönten Heißluftfritteusen",
+        "status": "active",
+        "period": "Ganzjährig aktiv 2026",
+        "details": "Vollständig optimierter Amazon Brand Store mit interaktivem Produktfinder, Video-Rezepten und direkter Verlinkung zur VeSync App.",
+        "url": "https://www.amazon.de/stores/COSORI/page/E58E9793-11C8-4DE3-BC19-4C82E88998C4",
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "retailer": "Otto",
+        "activation_type": "bundle_deal",
+        "title": "Cosori TurboBlaze Vorteilspaket mit 6-teiligem Zubehörset",
+        "headline_claim": "Komplettset für grenzenlose Rezeptvielfalt",
+        "status": "active",
+        "period": "Herbst 2026",
+        "details": "Exklusives Bundle-Angebot inklusive Backform, Grillrost und Silikonmuffinförmchen zur Steigerung des Warenkorbwerts.",
+        "url": "https://www.otto.de",
+        "extra": {}
+      },
+      {
+        "brand": "cosori",
+        "retailer": "MediaMarkt",
+        "activation_type": "flyer_frontpage",
+        "title": "MediaMarkt Online-Prospekt: Cosori Dual Blaze im 'Gutscheinheft'",
+        "headline_claim": "Starker Marken-Rabatt im beliebten MediaMarkt Gutscheinheft",
+        "status": "seasonal_flight_12m",
+        "period": "Januar 2026",
+        "details": "Prominente Einbindung in das digitale Gutscheinheft zur Ansprache von preisbewussten Neukunden zum Jahresstart.",
+        "url": "https://www.mediamarkt.de",
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "retailer": "MediaMarkt",
+        "activation_type": "flyer_frontpage",
+        "title": "MediaMarkt Club Tage: Philips Airfryer Combi 7000 als Flaggschiff",
+        "headline_claim": "Exklusiver Club-Preis & Extra-Punkte für MediaMarkt Clubmitglieder",
+        "status": "active",
+        "period": "September-Oktober 2026",
+        "details": "Frontseiten-Platzierung im MediaMarkt Club Prospekt mit Co-Finanzierung und Trade-In Altgeräte-Prämie (50€ Tauschprämie).",
+        "url": "https://www.mediamarkt.de/de/brand/philips",
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "retailer": "Amazon",
+        "activation_type": "brand_store_hub",
+        "title": "Philips Home Living Brand Store: '15 Jahre Airfryer Jubiläums-Hub'",
+        "headline_claim": "15 Jahre Knuspergenuss: Das Original feiert Jubiläum",
+        "status": "active",
+        "period": "2026",
+        "details": "Umfassender Marken-Hub mit historischem Zeitstrahl, HomeID App Integration und Sondereditionen.",
+        "url": "https://www.amazon.de/stores/Philips/page/B85B56E2-0B86-455E-AC68-C8E6454790E5",
+        "extra": {}
+      },
+      {
+        "brand": "philips",
+        "retailer": "Otto",
+        "activation_type": "bundle_deal",
+        "title": "Otto Up Spezial: Philips Dual Basket mit kostenlosem Pizza-Set",
+        "headline_claim": "Exklusiv für Otto Up Liefer-Flat Abonnenten",
+        "status": "seasonal_flight_12m",
+        "period": "Frühjahr 2026",
+        "details": "Gemeinsame Kampagne mit Otto zur Bewerbung des Otto Up Treueprogramms gepaart mit Philips Küchengeräten.",
+        "url": "https://www.otto.de",
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "retailer": "Otto",
+        "activation_type": "brand_store_hub",
+        "title": "Tefal Markenwelt auf Otto.de mit 'Genuss ohne Reue' Themenwoche",
+        "headline_claim": "Gesund grillen & frittieren: Entdecke die Tefal Easy Fry Serie",
+        "status": "active",
+        "period": "Spätsommer 2026",
+        "details": "Große Startseiten-Banner-Präsenz auf Otto.de während der 'Healthy Living' Themenwoche mit Rezeptvideos von Jamie Oliver.",
+        "url": "https://www.otto.de/marken/tefal",
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "retailer": "MediaMarkt",
+        "activation_type": "bundle_deal",
+        "title": "Tefal Dual Easy Fry & Grill Bundle mit Tefal OptiGrill Zubehör",
+        "headline_claim": "Das perfekte Grill-Duo für indoor und outdoor",
+        "status": "active",
+        "period": "Herbst 2026",
+        "details": "Cross-Selling-Aktivierung zwischen Heißluftfritteusen und Deutschlands meistverkauftem Kontaktgrill (OptiGrill).",
+        "url": "https://www.mediamarkt.de",
+        "extra": {}
+      },
+      {
+        "brand": "tefal",
+        "retailer": "Amazon",
+        "activation_type": "prime_day_spotlight",
+        "title": "Amazon Oster-Angebote: Tefal Heißluftfritteusen Top-Pick",
+        "headline_claim": "Bis zu 50% Rabatt auf Tefal Easy Fry & Grill Bestseller",
+        "status": "seasonal_flight_12m",
+        "period": "März 2026",
+        "details": "Offizielle 'Top-Pick' Empfehlung auf Amazon.de während der Oster-Angebotswoche mit massiver Reichweitenunterstützung.",
+        "url": "https://www.amazon.de",
+        "extra": {}
+      }
+    ]
+  },
+  "insights": [
+    {
+      "brand": "ninja",
+      "topic": "Strategy & Channels",
+      "text": "SharkNinja leads creative velocity in Germany, aggressively pushing vertical space-saving (DoubleStack XL) and cross-channel D2C traffic with high-frequency Meta video and search conquesting."
+    },
+    {
+      "brand": "cosori",
+      "topic": "Strategy & Channels",
+      "text": "Cosori dominates Amazon e-retail media and tech-savvy digital native channels; heavy reliance on VeSync smart-app ecosystem and creator recipe reels over traditional retail PR."
+    },
+    {
+      "brand": "philips",
+      "topic": "Strategy & Channels",
+      "text": "Philips (Versuni) leverages deep Stiftung Warentest heritage and premium Combi 7000 thermoprobe tech; maintains heavy TVC-style digital investments and top-tier MediaMarkt Club co-ops."
+    },
+    {
+      "brand": "tefal",
+      "topic": "Strategy & Channels",
+      "text": "Tefal (Groupe SEB) owns the 2-in-1 'Grill & Airfry' position in Germany, leveraging cast-aluminum grill plate claims and strong promotional presence across Otto and MediaMarkt."
+    }
+  ]
+}

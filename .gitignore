@@ -1,0 +1,11 @@
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
+data/raw/
+data/*.sqlite
+data/*.sqlite-*
+data/exports/
+!site/data/radar.json
+.DS_Store
+*.tar.gz

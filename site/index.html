@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Brand Radar · German Marketing Intelligence (Air Fryers)</title>
+  <meta name="description" content="Brutal marketing intelligence scraper for Germany: Meta Ad Library, Google SEM, Affiliates, Media Spend & E-Retailers for Ninja, Cosori, Philips, and Tefal.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%230f172a'/%3E%3Ccircle cx='16' cy='16' r='10' fill='none' stroke='%2338bdf8' stroke-width='2'/%3E%3Ccircle cx='16' cy='16' r='5' fill='none' stroke='%2338bdf8' stroke-width='2'/%3E%3Cpath d='M16 16 L25 7' stroke='%2300f0ff' stroke-width='2.5'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <div class="title-row">
+        <div>
+          <p class="eyebrow">Brand Radar · Germany</p>
+          <h1 id="title">Air Fryer Marketing &amp; GTM Intelligence</h1>
+          <p class="sub" id="subtitle">SharkNinja · Cosori · Philips · Tefal</p>
+        </div>
+        <div class="controls-row">
+          <div class="picker" id="time-picker" role="radiogroup" aria-label="Time Horizon">
+            <button class="active" data-time="currently_active">Currently Active</button>
+            <button data-time="trailing_12m">Last 1 Year Range</button>
+          </div>
+          <div class="picker" id="brand-picker" role="radiogroup" aria-label="Brand">
+            <button class="active" data-b="all">All 4 Brands</button>
+            <button data-b="ninja">SharkNinja</button>
+            <button data-b="cosori">Cosori</button>
+            <button data-b="philips">Philips</button>
+            <button data-b="tefal">Tefal</button>
+          </div>
+        </div>
+      </div>
+      <nav class="tabs" role="tablist" id="tabs">
+        <button class="active" data-tab="overview">Media Spend &amp; Mix</button>
+        <button data-tab="meta">Meta Ad Library</button>
+        <button data-tab="search">Google Search &amp; SEM</button>
+        <button data-tab="affiliates">Affiliates &amp; Deals</button>
+        <button data-tab="retail_pr">PR &amp; E-Retailers</button>
+        <button data-tab="dossier">Executive Dossier</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <!-- 1. OVERVIEW & MEDIA SPEND -->
+    <section data-panel="overview">
+      <div class="kpis" id="kpis"></div>
+      <div class="grid two">
+        <article class="card">
+          <h2>Estimated Media Investments <span class="hint" id="spend-hint">Trailing 12-Month Run-Rate (EUR)</span></h2>
+          <div class="chart-box tall"><canvas id="c-spend-bars"></canvas></div>
+        </article>
+        <article class="card">
+          <h2>Channel Mix Breakdown <span class="hint">Meta Ads vs. Google Search vs. Retail Media vs. Affiliates</span></h2>
+          <div class="chart-box tall"><canvas id="c-channel-mix"></canvas></div>
+        </article>
+      </div>
+      <article class="card">
+        <h2>12-Month Campaign Seasonality Curve <span class="hint">Black Week surge, Prime Day, IFA Berlin, Easter flights</span></h2>
+        <div class="chart-box"><canvas id="c-seasonality"></canvas></div>
+      </article>
+    </section>
+
+    <!-- 2. META AD LIBRARY -->
+    <section data-panel="meta" hidden>
+      <div class="grid two">
+        <article class="card">
+          <h2>Creative Format Distribution <span class="hint">Video, Reels, Carousel &amp; Static Ads</span></h2>
+          <div class="chart-box"><canvas id="c-meta-formats"></canvas></div>
+        </article>
+        <article class="card">
+          <h2>Dominant Copy Hooks &amp; Value Propositions <span class="hint">Energy savings, dual-zone, healthy frying, space saving</span></h2>
+          <div class="chart-box"><canvas id="c-meta-hooks"></canvas></div>
+        </article>
+      </div>
+      <article class="card">
+        <h2>Ad Creatives Feed &amp; Copy Transcripts <span class="hint" id="ads-count-hint">Showing active &amp; historical flights</span></h2>
+        <div class="ad-grid" id="ad-cards"></div>
+      </article>
+    </section>
+
+    <!-- 3. GOOGLE SEARCH & SEM -->
+    <section data-panel="search" hidden>
+      <div class="grid two">
+        <article class="card">
+          <h2>Google Search Paid vs. Organic Footprint <span class="hint">Germany SERP metrics</span></h2>
+          <div class="chart-box"><canvas id="c-search-presence"></canvas></div>
+        </article>
+        <article class="card">
+          <h2>Keyword Intercept Strategy</h2>
+          <p class="sub" style="margin-bottom:12px;">How brands conquest competitor terms &amp; generic high-intent keywords</p>
+          <div class="table-wrap"><table id="t-search-keywords"></table></div>
+        </article>
+      </div>
+      <article class="card">
+        <h2>Verified Google Germany Search Ads &amp; Shopping Placements</h2>
+        <div class="table-wrap"><table id="t-search-raw"></table></div>
+      </article>
+    </section>
+
+    <!-- 4. AFFILIATES & DEALS -->
+    <section data-panel="affiliates" hidden>
+      <div class="grid two">
+        <article class="card">
+          <h2>Deal Community Temperature (° Heat) <span class="hint">MyDealz user excitement &amp; engagement</span></h2>
+          <div class="chart-box"><canvas id="c-deal-temp"></canvas></div>
+        </article>
+        <article class="card">
+          <h2>Average Deal Discount Depth <span class="hint">% below MSRP</span></h2>
+          <div class="chart-box"><canvas id="c-deal-discounts"></canvas></div>
+        </article>
+      </div>
+      <article class="card">
+        <h2>Active &amp; Historical Deal Portal Activations (MyDealz, Awin, Amazon)</h2>
+        <div class="table-wrap"><table id="t-affiliates"></table></div>
+      </article>
+    </section>
+
+    <!-- 5. PR & E-RETAILERS -->
+    <section data-panel="retail_pr" hidden>
+      <div class="grid two">
+        <article class="card">
+          <h2>PR Wires &amp; Certified Test Awards <span class="hint">Stiftung Warentest, ETM Testmagazin, Haus &amp; Garten</span></h2>
+          <div class="table-wrap"><table id="t-pr-releases"></table></div>
+        </article>
+        <article class="card">
+          <h2>E-Retailer Brand Stores &amp; Activations <span class="hint">MediaMarkt, Otto.de, Amazon.de</span></h2>
+          <div class="table-wrap"><table id="t-retail-activations"></table></div>
+        </article>
+      </div>
+    </section>
+
+    <!-- 6. EXECUTIVE DOSSIER -->
+    <section data-panel="dossier" hidden>
+      <article class="card">
+        <h2>C-Level Marketing Intelligence Briefing (Germany)</h2>
+        <div style="background:var(--surface-2);border-left:4px solid var(--accent);padding:14px 18px;margin-bottom:20px;">
+          <strong>CONFIDENTIAL EXECUTIVE SUMMARY:</strong> Competitive positioning and go-to-market teardown across SharkNinja, Cosori, Philips, and Tefal in the German air fryer category.
+        </div>
+        <div id="dossier-markdown" style="line-height:1.7;font-size:14px;"></div>
+      </article>
+    </section>
+  </main>
+
+  <footer class="wrap foot">
+    <span id="foot-meta">Brand Radar v1.0.0</span>
+    <span>Personal Marketing Intelligence Portfolio · Built by Berk Saraloğlu</span>
+  </footer>
+
+  <script src="vendor/chart.umd.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

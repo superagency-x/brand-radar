@@ -1,0 +1,134 @@
+# Brand Intelligence Configuration: Germany (Air Fryers)
+# Strictly 4 target brands: SharkNinja, Cosori, Philips, Tefal
+
+category:
+  id: airfryer_de
+  name: Air Fryer Marketing Intelligence
+  market: DE
+  country_name: Germany
+  base_currency: EUR
+
+brands:
+  ninja:
+    id: ninja
+    name: SharkNinja
+    corporate_name: "SharkNinja Europe GmbH"
+    hq_dach: "Frankfurt am Main, Germany"
+    domains:
+      - "ninjakitchen.de"
+      - "sharkninja.com"
+    meta:
+      page_name: "Ninja Kitchen DE"
+      search_terms: ["Ninja Kitchen", "Ninja Airfryer", "DoubleStack", "Ninja Foodi"]
+      advertiser_names: ["Ninja Kitchen Germany", "SharkNinja Europe"]
+    google_sem:
+      brand_terms: ["ninja airfryer", "ninja heißluftfritteuse", "ninja doublestack", "ninja af400eu", "ninja kitchen de"]
+      generic_intercepts: ["heißluftfritteuse 2 kammern", "doppelkammer friteuse test", "heissluftfritteuse xxl test"]
+    affiliates:
+      networks: ["Awin", "Amazon Associates"]
+      mydealz_slug: "ninja-kitchen"
+      common_voucher_codes: ["NINJA10", "AIRFRYER15", "BLACKFRIDAY"]
+    flagship_skus:
+      - name: "Ninja DoubleStack XL 9.5L (SL400EU)"
+        usp: "Vertikale Doppelkammer spart 30% Platz auf der Arbeitsplatte"
+      - name: "Ninja Foodi Dual Zone 9.5L (AF400EU)"
+        usp: "Zwei unabhängige Garzonen mit Sync-Funktion"
+      - name: "Ninja Foodi FlexDrawer 10.4L (AF500EU)"
+        usp: "Verwandelbare MegaZone für ganze Braten & Familien"
+      - name: "Ninja CRISPi 4-in-1 (FN101EU)"
+        usp: "Kompaktes tragbares Glas-Garsystem"
+
+  cosori:
+    id: cosori
+    name: Cosori
+    corporate_name: "VeSync Europe B.V. / Cosori Germany"
+    hq_dach: "Hamburg / European distribution"
+    domains:
+      - "cosori.de"
+      - "vesync.com"
+    meta:
+      page_name: "Cosori Deutschland"
+      search_terms: ["Cosori", "Cosori Airfryer", "Cosori Dual Blaze", "Turbo Tower"]
+      advertiser_names: ["Cosori Germany", "VeSync"]
+    google_sem:
+      brand_terms: ["cosori airfryer", "cosori heissluftfritteuse", "cosori dual blaze", "cosori turbo tower", "cosori rezepte"]
+      generic_intercepts: ["beste heißluftfritteuse", "heißluftfritteuse app steuerung", "smart heißluftfritteuse"]
+    affiliates:
+      networks: ["Amazon Associates", "CJ Affiliate"]
+      mydealz_slug: "cosori"
+      common_voucher_codes: ["COSORI10", "VESYNC20"]
+    flagship_skus:
+      - name: "Cosori Turbo Tower Pro Smart 10.8L (CAF-DC123S)"
+        usp: "Vertikales 2-Ebenen-System mit 4 Heizelementen & VeSync App"
+      - name: "Cosori Dual Blaze 6.4L (CAF-P583S)"
+        usp: "Ober- und Unterhitze 360 ThermoIQ ohne Wenden"
+      - name: "Cosori TurboBlaze 6.0L"
+        usp: "DC-Gleichstrommotor für 46% schnellere Zubereitung"
+      - name: "Cosori Lite 3.8L / Iconic Single"
+        usp: "Modernes Design & kompakte Form für Single- und Paarhaushalte"
+
+  philips:
+    id: philips
+    name: Philips
+    corporate_name: "Versuni Germany GmbH"
+    hq_dach: "Hamburg, Germany"
+    domains:
+      - "philips.de"
+      - "versuni.com"
+    meta:
+      page_name: "Philips Home Living DE"
+      search_terms: ["Philips Airfryer", "Philips Home Living", "Rapid CombiAir", "HomeID"]
+      advertiser_names: ["Philips DACH", "Versuni Germany"]
+    google_sem:
+      brand_terms: ["philips airfryer", "philips heißluftfritteuse", "philips airfryer xxl", "philips combi 7000", "homeid app philips"]
+      generic_intercepts: ["original airfryer", "heißluftfritteuse stiftung warentest", "gesund frittieren ohne fett"]
+    affiliates:
+      networks: ["Awin", "Tradedoubler", "Amazon Associates"]
+      mydealz_slug: "philips-airfryer"
+      common_voucher_codes: ["PHILIPS15", "VERSUNI10", "APP10"]
+    flagship_skus:
+      - name: "Philips Airfryer Combi 7000 XXL (HD9880/90)"
+        usp: "Rapid CombiAir mit integriertem Speisenthermometer & HomeID App"
+      - name: "Philips Airfryer Dual Basket 3000 (NA352/00)"
+        usp: "Zwei unterschiedlich große Körbe (6L + 3L) für Hauptgericht & Beilage"
+      - name: "Philips 5000 Series Steam Airfryer (NA555/00)"
+        usp: "Dampf- und Heißluft-Kombination für saftige Frische"
+      - name: "Philips Essential XL (HD9270/96)"
+        usp: "Der bewährte Klassiker mit Rapid Air Seestern-Boden"
+
+  tefal:
+    id: tefal
+    name: Tefal
+    corporate_name: "Groupe SEB Deutschland GmbH"
+    hq_dach: "Frankfurt am Main, Germany"
+    domains:
+      - "tefal.de"
+      - "groupeseb.com"
+    meta:
+      page_name: "Tefal Deutschland"
+      search_terms: ["Tefal Easy Fry", "Tefal Heißluftfritteuse", "Tefal Dual", "Actifry"]
+      advertiser_names: ["Tefal DACH", "Groupe SEB Deutschland"]
+    google_sem:
+      brand_terms: ["tefal heißluftfritteuse", "tefal easy fry", "tefal dual easy fry", "tefal actifry", "tefal ey905b"]
+      generic_intercepts: ["heißluftfritteuse mit grillfunktion", "heißluftfritteuse synchron", "fritteuse ohne fett test"]
+    affiliates:
+      networks: ["Awin", "Amazon Associates"]
+      mydealz_slug: "tefal"
+      common_voucher_codes: ["TEFAL10", "SEB15", "TREUEAKTION"]
+    flagship_skus:
+      - name: "Tefal Dual Easy Fry & Grill 8.3L (EY905B)"
+        usp: "Zweikammer mit Druckguss-Grillrost für echte Grillstreifen"
+      - name: "Tefal Easy Fry & Grill XXL 6.5L (EY8018)"
+        usp: "Flexible 2-in-1-Zone mit herausnehmbarem Flexcook-Trenner"
+      - name: "Tefal Easy Fry Mega 7.5L (EY855D)"
+        usp: "Extragroßes Einzelfach für Großportionen bis 2 kg"
+      - name: "Tefal Actifry Genius XL"
+        usp: "Rührarm-Technologie für automatisches Wenden ohne Schütteln"
+
+# Benchmark modeling constants for German Market (DACH media economics)
+dach_benchmarks:
+  meta_cpm_eur: 11.20         # Average Meta Ads CPM in Germany for Home & Kitchen
+  google_search_cpc_eur: 1.45 # Average German high-intent Google Search CPC
+  google_shopping_cpc_eur: 0.65
+  affiliate_commission_rate: 0.065 # 6.5% typical CE/Home Appliance affiliate revshare
+  retail_media_cpc_eur: 0.85   # Amazon Sponsored Products / MediaMarkt Retail Media CPC
